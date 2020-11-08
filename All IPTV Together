@@ -1319,8 +1319,6 @@ https://livecdn.fptplay.net/Amarnet IPTV/outdoorfhd_hls.smil/chunklist_b2500000.
 https://livecdn.fptplay.net/Amarnet IPTV/davincihd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_fox-life_152238683897.png" group-title="Amarnet IPTV",Fox Life HD
 https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="Khám Phá" tvg-logo="http://i.imgur.com/MtCA5jr.png" group-title="Amarnet IPTV",ABC Australia HD
-https://livecdn.fptplay.net/qnetlive/australiaplus_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/44/BBC_Earth_logo.png/200px-BBC_Earth_logo.png" group-title="Amarnet IPTV",BBC Earth
 https://livecdn.fptplay.net/qnetlive/bbcearth_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Asian_Food_Network.svg/220px-Asian_Food_Network.svg.png" group-title="Amarnet IPTV",AFC
@@ -1385,27 +1383,7 @@ http://51.52.156.22:8888/http/003
 http://210.210.155.35/session/83bc2526-da69-11e8-881b-c81f66f89318/dr9445/h/h144/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RQcaLDO.jpg" group-title="Amarnet IPTV",AniPlus
 http://210.210.155.35/dr9445/h/h02/01.m3u8?@amarnettv.live
-#EXTINF:-1 tvg-logo="https://cdn.siasat.com/wp-content/uploads/2020/02/IPL-2020-1.jpg" group-title="Amarnet IPTV LIVE",Rabbitholebd HD
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1603394965/ei/NYmRX4C6Bb-Wz7sP8t6i2Ao/ip/103.120.194.34/id/a50gLTFzO60.5/source/yt_live_broadcast/requiressl/yes/hfr/1/maxh/1080/maudio/1/gcr/bd/vprv/1/go/1/keepalive/yes/fexp/23915654/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cmaxh%2Cmaudio%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgbdKgquzsveR8WdRtBZEkeR3CUkAmWTEgUdchHDlnEqcCIAlH_-x3IWJwQFyqq4PcyEXQoi0q3sZaxW7GkDlCPFKL/file/index.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.siasat.com/wp-content/uploads/2020/02/IPL-2020-1.jpg" group-title="Amarnet IPTV LIVE",IPL Live 1
-http://103.132.180.245:8080/2/index.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.siasat.com/wp-content/uploads/2020/02/IPL-2020-1.jpg" group-title="Amarnet IPTV LIVE",IPL Live 2
-http://td.iplfree.ml/t.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.siasat.com/wp-content/uploads/2020/02/IPL-2020-1.jpg" group-title="Amarnet IPTV LIVE",IPL Live 3
-http://103.102.136.106:8080/cmcltv/gtv_th.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.siasat.com/wp-content/uploads/2020/02/IPL-2020-1.jpg" group-title="Amarnet IPTV LIVE",IPL Live 4
-https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/pkAmarnet IPTV.stream/live-orgin/pkAmarnet IPTV.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.siasat.com/wp-content/uploads/2020/02/IPL-2020-1.jpg" group-title="Amarnet IPTV LIVE",IPL Live 5
-http://103.144.214.130/channel1/ngrp:myStream_all/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.siasat.com/wp-content/uploads/2020/02/IPL-2020-1.jpg" group-title="Amarnet IPTV LIVE",IPL Live 6
-http://164.132.160.137/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT34kk7eUaREq-SubvYv5NaqH5GN8KpOXHADg&usqp=CAU" group-title="Amarnet IPTV LIVE",Football LIVE 1
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Amarnet IPTV/5287ef2dc1aba35.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT34kk7eUaREq-SubvYv5NaqH5GN8KpOXHADg&usqp=CAU" group-title="Amarnet IPTV LIVE",Football LIVE 2
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Amarnet IPTV/7cd55cbdb8421e2.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT34kk7eUaREq-SubvYv5NaqH5GN8KpOXHADg&usqp=CAU" group-title="Amarnet IPTV LIVE",Football LIVE 3
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Amarnet IPTV/a7c8b3630f5fe86.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT34kk7eUaREq-SubvYv5NaqH5GN8KpOXHADg&usqp=CAU" group-title="Amarnet IPTV LIVE",Football LIVE 4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT34kk7eUaREq-SubvYv5NaqH5GN8KpOXHADg&usqp=CAU" group-title="Amarnet IPTV",LaLiga Tv
 http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Spain/aae6dcc000e10a8.m3u8
 #EXTINF:-1 tvg-logo="https://www.dishurdu.com/images/PK-Amarnet IPTV-Logo.png" group-title="Amarnet IPTV",PK Amarnet IPTV HD
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/pkAmarnet IPTV.stream/live-orgin/pkAmarnet IPTV.stream/chunks.m3u8
@@ -2086,8 +2064,6 @@ https://robi.iptv.digijadoo.net/live/zing/chunks.m3u8
 https://timesnow.airtel.tv/live/MNX_pull/master.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/EV57mn3.png" group-title="Two  IPTV",47.Lotus Macaw 
 https://robi.iptv.digijadoo.net/live/macau_lotus/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TJ8r6Rj.png" group-title="",49.Hits 
-http://45.126.83.51/uq2663/h/h37/index.m3u8
 #EXTINF:0 tvg-logo="https://s6.gifyu.com/images/image029be7097122b523.png" group-title="Two  IPTV",50.History TV HD 
 https://robi.iptv.digijadoo.net/live/history_tv_hd/chunks.m3u8
 #EXTINF:-1 group-title="Two  IPTV",154.Sony Ten 3 [Extra]
@@ -2309,1050 +2285,1050 @@ http://iptvthunder.thunderbd.com/live/roarzone/roarzone/72.m3u8
 #EXTINF:-1 ,Travel XP( ˘ ³˘)♥
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/23.ts
 #EXTM3U
-#EXTINF:0 tvg-logo="https://i.imgur.com/gigcgc2.png" group-title="Three  IPTV",Sony Aath 
+#EXTINF:0 tvg-logo="https://i.imgur.com/gigcgc2.png" group-title="Three IPTV",Sony Aath 
 http://ccn.anytv.live:8080/sonyaath/index.m3u8
-#EXTINF:-1 tvg-logo="none" group-title="Three  IPTV",Ads Three  IPTV 
+#EXTINF:-1 tvg-logo="none" group-title="Three IPTV",Ads Three IPTV 
 http://212.47.252.54/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7mxlvs6.png" group-title="Three  IPTV",MNX 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7mxlvs6.png" group-title="Three IPTV",MNX 
 https://timesnow.airtel.tv/live/MNX_pull/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TJ8r6Rj.png" group-title="Three  IPTV",Hits 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TJ8r6Rj.png" group-title="Three IPTV",Hits 
 http://45.126.83.51/uq2663/h/h37/index.m3u8
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-_yWhUEZ2BlE/V2IOUwceOpI/AAAAAAAAJFM/0MOt11e7yXw/s1600/PicsArt_11-04-02.05.15.jpg" group-title="Three  IPTV",Sony Ten 3 [Extra]
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-_yWhUEZ2BlE/V2IOUwceOpI/AAAAAAAAJFM/0MOt11e7yXw/s1600/PicsArt_11-04-02.05.15.jpg" group-title="Three IPTV",Sony Ten 3 [Extra]
 http://43.231.22.238:8081/hdcrictv/ctg_ten3hd/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-_yWhUEZ2BlE/V2IOUwceOpI/AAAAAAAAJFM/0MOt11e7yXw/s1600/PicsArt_11-04-02.05.15.jpg" group-title="Three  IPTV",Star Gold 2 HD Ibox
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-_yWhUEZ2BlE/V2IOUwceOpI/AAAAAAAAJFM/0MOt11e7yXw/s1600/PicsArt_11-04-02.05.15.jpg" group-title="Three IPTV",Star Gold 2 HD Ibox
 http://103.135.208.14/live/ibox/bd/99.m3u8
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-_yWhUEZ2BlE/V2IOUwceOpI/AAAAAAAAJFM/0MOt11e7yXw/s1600/PicsArt_11-04-02.05.15.jpg" group-title="Three  IPTV",Sony Ten 2 [1]
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-_yWhUEZ2BlE/V2IOUwceOpI/AAAAAAAAJFM/0MOt11e7yXw/s1600/PicsArt_11-04-02.05.15.jpg" group-title="Three IPTV",Sony Ten 2 [1]
 http://103.214.202.218:8081/live/ten2hd/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-_yWhUEZ2BlE/V2IOUwceOpI/AAAAAAAAJFM/0MOt11e7yXw/s1600/PicsArt_11-04-02.05.15.jpg" group-title="Three  IPTV",Star Three  IPTV Select 1 HD
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-_yWhUEZ2BlE/V2IOUwceOpI/AAAAAAAAJFM/0MOt11e7yXw/s1600/PicsArt_11-04-02.05.15.jpg" group-title="Three IPTV",Star Three IPTV Select 1 HD
 http://45.249.187.238:8081/hls/new2.m3u8
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-_yWhUEZ2BlE/V2IOUwceOpI/AAAAAAAAJFM/0MOt11e7yXw/s1600/PicsArt_11-04-02.05.15.jpg" group-title="Three  IPTV",Bein Three  IPTV 1 HQ ⚽
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-_yWhUEZ2BlE/V2IOUwceOpI/AAAAAAAAJFM/0MOt11e7yXw/s1600/PicsArt_11-04-02.05.15.jpg" group-title="Three IPTV",Bein Three IPTV 1 HQ ⚽
 https://mn-nl-glb.mncdn.com/dlive/transcode-76-251/f105f4e367/1599906862/src/live.m3u8
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-_yWhUEZ2BlE/V2IOUwceOpI/AAAAAAAAJFM/0MOt11e7yXw/s1600/PicsArt_11-04-02.05.15.jpg" group-title="Three  IPTV",Star Movies Select HD
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-_yWhUEZ2BlE/V2IOUwceOpI/AAAAAAAAJFM/0MOt11e7yXw/s1600/PicsArt_11-04-02.05.15.jpg" group-title="Three IPTV",Star Movies Select HD
 http://87.117.234.107:1935/live/StarMovies_SELECT_HD/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-_yWhUEZ2BlE/V2IOUwceOpI/AAAAAAAAJFM/0MOt11e7yXw/s1600/PicsArt_11-04-02.05.15.jpg" group-title="Three  IPTV",Peace TV Three  IPTV
-http://peacetv.ashttp22.visionip.tv/live/peacetv-peacetv-peacetv-Three  IPTV-hsslive-25f-16x9-SDh/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-_yWhUEZ2BlE/V2IOUwceOpI/AAAAAAAAJFM/0MOt11e7yXw/s1600/PicsArt_11-04-02.05.15.jpg" group-title="Three  IPTV",Star Three  IPTV
-http://87.117.234.107:1935/live/StarThree  IPTV1FHD/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-_yWhUEZ2BlE/V2IOUwceOpI/AAAAAAAAJFM/0MOt11e7yXw/s1600/PicsArt_11-04-02.05.15.jpg" group-title="Three  IPTV",Star Three  IPTV Select 2 HD
-http://87.117.234.107:1935/live/StarThree  IPTV2FHD/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-_yWhUEZ2BlE/V2IOUwceOpI/AAAAAAAAJFM/0MOt11e7yXw/s1600/PicsArt_11-04-02.05.15.jpg" group-title="Three  IPTV",Sony SAB
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-_yWhUEZ2BlE/V2IOUwceOpI/AAAAAAAAJFM/0MOt11e7yXw/s1600/PicsArt_11-04-02.05.15.jpg" group-title="Three IPTV",Peace TV Three IPTV
+http://peacetv.ashttp22.visionip.tv/live/peacetv-peacetv-peacetv-Three IPTV-hsslive-25f-16x9-SDh/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-_yWhUEZ2BlE/V2IOUwceOpI/AAAAAAAAJFM/0MOt11e7yXw/s1600/PicsArt_11-04-02.05.15.jpg" group-title="Three IPTV",Star Three IPTV
+http://87.117.234.107:1935/live/StarThree IPTV1FHD/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-_yWhUEZ2BlE/V2IOUwceOpI/AAAAAAAAJFM/0MOt11e7yXw/s1600/PicsArt_11-04-02.05.15.jpg" group-title="Three IPTV",Star Three IPTV Select 2 HD
+http://87.117.234.107:1935/live/StarThree IPTV2FHD/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-_yWhUEZ2BlE/V2IOUwceOpI/AAAAAAAAJFM/0MOt11e7yXw/s1600/PicsArt_11-04-02.05.15.jpg" group-title="Three IPTV",Sony SAB
 http://103.214.202.218:8081/live/sonysab/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-_yWhUEZ2BlE/V2IOUwceOpI/AAAAAAAAJFM/0MOt11e7yXw/s1600/PicsArt_11-04-02.05.15.jpg" group-title="Three  IPTV",And Flix HD
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-_yWhUEZ2BlE/V2IOUwceOpI/AAAAAAAAJFM/0MOt11e7yXw/s1600/PicsArt_11-04-02.05.15.jpg" group-title="Three IPTV",And Flix HD
 http://103.214.202.218:8081/live/andflix-29/chunks.m3u8
-#EXTINF:0 group-title="Three  IPTV" tvg-logo="https://i.imgur.com/gUu2nMa.png" group-title="Three  IPTV",HBO 
+#EXTINF:0 group-title="Three IPTV" tvg-logo="https://i.imgur.com/gUu2nMa.png" group-title="Three IPTV",HBO 
 http://ccn.anytv.live:8080/hbo/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RgdbIbc.png" group-title="Three  IPTV",Sony Ten 1 HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RgdbIbc.png" group-title="Three IPTV",Sony Ten 1 HD
 http://103.214.202.218:8081/live/ten1hd/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NvVbPky.png" group-title="Three  IPTV",Sony Ten 2 HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NvVbPky.png" group-title="Three IPTV",Sony Ten 2 HD
 http://103.214.202.218:8081/live/ten2hd/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9mL944k.jpg" group-title="Three  IPTV",Sony Ten 3 HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9mL944k.jpg" group-title="Three IPTV",Sony Ten 3 HD
 http://103.214.202.218:8081/live/ten3hd/chunks.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/8HTCcDe.png" group-title="Three  IPTV",Sony Max
+#EXTINF:0 tvg-logo="https://i.imgur.com/8HTCcDe.png" group-title="Three IPTV",Sony Max
 http://ccn.anytv.live:8080/sonymax/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="155" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Six_HD.png" group-title="Three  IPTV",Sony Six HD Mirror
+#EXTINF:-1 tvg-id="155" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Six_HD.png" group-title="Three IPTV",Sony Six HD Mirror
 http://iptv.mirrorace.net/?channelid=155 
-#EXTINF:-1 tvg-id="162" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_HD.png" group-title="Three  IPTV",Ten 1 HD Mirror
+#EXTINF:-1 tvg-id="162" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_HD.png" group-title="Three IPTV",Ten 1 HD Mirror
 http://iptv.mirrorace.net/?channelid=162
-#EXTINF:-1 tvg-id="SonyMax(src07).in(m3u4u)" tvg-name="Sony Max HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/43/Sony_Max_HD.svg/revision/latest/scale-to-width-down/340?cb=20191222183157" group-title="Three  IPTV",Sony Max HD
+#EXTINF:-1 tvg-id="SonyMax(src07).in(m3u4u)" tvg-name="Sony Max HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/43/Sony_Max_HD.svg/revision/latest/scale-to-width-down/340?cb=20191222183157" group-title="Three IPTV",Sony Max HD
 http://global.thunderbd.com/37/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="SonySix(src07).in(m3u4u)" tvg-name="Sony Six HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Sony_SIX_logo.png" group-title="Three  IPTV",Sony Six HD
+#EXTINF:-1 tvg-id="SonySix(src07).in(m3u4u)" tvg-name="Sony Six HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Sony_SIX_logo.png" group-title="Three IPTV",Sony Six HD
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/49.ts
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-_yWhUEZ2BlE/V2IOUwceOpI/AAAAAAAAJFM/0MOt11e7yXw/s1600/PicsArt_11-04-02.05.15.jpg" group-title="Three  IPTV",Star Movies
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-_yWhUEZ2BlE/V2IOUwceOpI/AAAAAAAAJFM/0MOt11e7yXw/s1600/PicsArt_11-04-02.05.15.jpg" group-title="Three IPTV",Star Movies
 http://45.249.187.238:8081/hls/tsl-8.m3u8
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-_yWhUEZ2BlE/V2IOUwceOpI/AAAAAAAAJFM/0MOt11e7yXw/s1600/PicsArt_11-04-02.05.15.jpg" group-title="Three  IPTV",,Warner Bros Tv
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-_yWhUEZ2BlE/V2IOUwceOpI/AAAAAAAAJFM/0MOt11e7yXw/s1600/PicsArt_11-04-02.05.15.jpg" group-title="Three IPTV",,Warner Bros Tv
 http://104.250.154.42:8080//ZZ_huanadianying/ZZ_huanadianying.m3u8
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-_yWhUEZ2BlE/V2IOUwceOpI/AAAAAAAAJFM/0MOt11e7yXw/s1600/PicsArt_11-04-02.05.15.jpg" group-title="Three  IPTV",Sony Max 2
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-_yWhUEZ2BlE/V2IOUwceOpI/AAAAAAAAJFM/0MOt11e7yXw/s1600/PicsArt_11-04-02.05.15.jpg" group-title="Three IPTV",Sony Max 2
 http://jaze.xyz:8080/live/justforfun/fYvk3cQzJ9/16032.m3u8
 #EXTINF:-1 ,HBO HD
 http://jaze.xyz:8080/live/justforfun/fYvk3cQzJ9/2852.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CN HD" tvg-logo="https://cms.cignal.tv/Upload/Images/Cartoon-Network-HD.png" group-title="Three  IPTV",CN HD
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CN HD" tvg-logo="https://cms.cignal.tv/Upload/Images/Cartoon-Network-HD.png" group-title="Three IPTV",CN HD
 http://45.249.187.238:8081/hls/new14.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Sony Ten 2 HD" tvg-logo="https://img2.pngio.com/javascript-extm3u-extinf-1-tvg-idvtv-1-tvg-logohttp-cdn-sony-ten-2-png-320_320.png" group-title="Three  IPTV",Sony Ten 2 HD Fast
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Sony Ten 2 HD" tvg-logo="https://img2.pngio.com/javascript-extm3u-extinf-1-tvg-idvtv-1-tvg-logohttp-cdn-sony-ten-2-png-320_320.png" group-title="Three IPTV",Sony Ten 2 HD Fast
 http://175.41.46.16:8081/hls/7.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Ten Three  IPTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Sony_TEN_logo.png/180px-Sony_TEN_logo.png" group-title="Three  IPTV",Ten Three  IPTV
-http://125.209.99.45:43568/BRN/TenThree  IPTV.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="StarThree  IPTVSelect1(src07).in(m3u4u)" tvg-name="Star Three  IPTV  HD " tvg-logo="https://tv.bdtype.com/uploads/tv_image/star-Three  IPTV-select-1.jpg" group-title="Three  IPTV",Star Three  IPTV Select 1 HD 
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Ten Three IPTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Sony_TEN_logo.png/180px-Sony_TEN_logo.png" group-title="Three IPTV",Ten Three IPTV
+http://125.209.99.45:43568/BRN/TenThree IPTV.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="StarThree IPTVSelect1(src07).in(m3u4u)" tvg-name="Star Three IPTV  HD " tvg-logo="https://tv.bdtype.com/uploads/tv_image/star-Three IPTV-select-1.jpg" group-title="Three IPTV",Star Three IPTV Select 1 HD 
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/51.ts
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Bein Three  IPTV HD 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/1-HD.png/120px-1-HD.png" group-title="Three  IPTV",Bein Three  IPTV HD 1 Low ⚽
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Bein Three IPTV HD 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/1-HD.png/120px-1-HD.png" group-title="Three IPTV",Bein Three IPTV HD 1 Low ⚽
 https://akamai2-me.cdn.booyah.live/hls/113134/16201993.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Bein Three  IPTV HD 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/2-HD.png/120px-2-HD.png" group-title="Three  IPTV",Bein Three  IPTV HD 1 Three  IPTV ⚽
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Bein Three IPTV HD 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/2-HD.png/120px-2-HD.png" group-title="Three IPTV",Bein Three IPTV HD 1 Three IPTV ⚽
 https://verizon.mx.cdn.booyah.live/hls/210158/24039509.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Bein Three  IPTV HD 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/3-HD.png/120px-3-HD.png" group-title="Three  IPTV",Bein Three  IPTV HD 1  Good ⚽
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Bein Three IPTV HD 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/3-HD.png/120px-3-HD.png" group-title="Three IPTV",Bein Three IPTV HD 1  Good ⚽
 https://2-fss-2.streamhoster.com/pl_124/amlst:203814-1456922/chunklist_b3000000.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Bein Three  IPTV HD 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/4-HD.png/120px-4-HD.png" group-title="Three  IPTV",Bein Three  IPTV HD 4
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Bein Three IPTV HD 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/4-HD.png/120px-4-HD.png" group-title="Three IPTV",Bein Three IPTV HD 4
 http://visionmedaitv.nl:7444/live/TimesHiftFlussonic/hPgOmwOORa/70.ts
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Bein Three  IPTV Xtra" tvg-logo="https://apps.beinThree  IPTV.com/dev/au/images/XTRA.png" group-title="Three  IPTV",Bein Three  IPTV Xtra
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Bein Three IPTV Xtra" tvg-logo="https://apps.beinThree IPTV.com/dev/au/images/XTRA.png" group-title="Three IPTV",Bein Three IPTV Xtra
 https://bein-xtra-roku.amagi.tv/ingest/playlist1080p.m3u8
-#EXTINF:0 group-title="Three  IPTV" tvg-logo="https://i.imgur.com/QTRyKv9.png" group-title="Three  IPTV" ,Sony Ten 2 HD Ibox
+#EXTINF:0 group-title="Three IPTV" tvg-logo="https://i.imgur.com/QTRyKv9.png" group-title="Three IPTV" ,Sony Ten 2 HD Ibox
 http://103.135.208.14/live/ibox/bd/56.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9mL944k.jpg" group-title="Three  IPTV",Sony Ten 3 HD Ibox
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9mL944k.jpg" group-title="Three IPTV",Sony Ten 3 HD Ibox
 http://103.135.208.14/live/ibox/bd/55.m3u8
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-_yWhUEZ2BlE/V2IOUwceOpI/AAAAAAAAJFM/0MOt11e7yXw/s1600/PicsArt_11-04-02.05.15.jpg" group-title="Three  IPTV",Star Three  IPTV Select 1 HD Ibox
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-_yWhUEZ2BlE/V2IOUwceOpI/AAAAAAAAJFM/0MOt11e7yXw/s1600/PicsArt_11-04-02.05.15.jpg" group-title="Three IPTV",Star Three IPTV Select 1 HD Ibox
 http://103.135.208.14/live/ibox/bd/82.m3u8
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-_yWhUEZ2BlE/V2IOUwceOpI/AAAAAAAAJFM/0MOt11e7yXw/s1600/PicsArt_11-04-02.05.15.jpg" group-title="Three  IPTV",Star Three  IPTV Select 1 HD Ibox
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-_yWhUEZ2BlE/V2IOUwceOpI/AAAAAAAAJFM/0MOt11e7yXw/s1600/PicsArt_11-04-02.05.15.jpg" group-title="Three IPTV",Star Three IPTV Select 1 HD Ibox
 http://103.135.208.14/live/ibox/bd/77.m3u8
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-_yWhUEZ2BlE/V2IOUwceOpI/AAAAAAAAJFM/0MOt11e7yXw/s1600/PicsArt_11-04-02.05.15.jpg" group-title="Three  IPTV",Star Three  IPTV Select 2 HD Ibox
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-_yWhUEZ2BlE/V2IOUwceOpI/AAAAAAAAJFM/0MOt11e7yXw/s1600/PicsArt_11-04-02.05.15.jpg" group-title="Three IPTV",Star Three IPTV Select 2 HD Ibox
 http://103.135.208.14/live/ibox/bd/83.m3u8
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-_yWhUEZ2BlE/V2IOUwceOpI/AAAAAAAAJFM/0MOt11e7yXw/s1600/PicsArt_11-04-02.05.15.jpg" group-title="Three  IPTV",Willow HD
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-_yWhUEZ2BlE/V2IOUwceOpI/AAAAAAAAJFM/0MOt11e7yXw/s1600/PicsArt_11-04-02.05.15.jpg" group-title="Three IPTV",Willow HD
 http://rv.therevenge.co:80/live/0YeiJ2arqP/nuDvIG0bE8/74421.m3u8
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-_yWhUEZ2BlE/V2IOUwceOpI/AAAAAAAAJFM/0MOt11e7yXw/s1600/PicsArt_11-04-02.05.15.jpg" group-title="Three  IPTV",Sky Three  IPTV Football
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-_yWhUEZ2BlE/V2IOUwceOpI/AAAAAAAAJFM/0MOt11e7yXw/s1600/PicsArt_11-04-02.05.15.jpg" group-title="Three IPTV",Sky Three IPTV Football
 https://verizon-me.cdn.booyah.live/hls/113137/23963506.m3u8
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-_yWhUEZ2BlE/V2IOUwceOpI/AAAAAAAAJFM/0MOt11e7yXw/s1600/PicsArt_11-04-02.05.15.jpg" group-title="Three  IPTV",Star Gold 2
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-_yWhUEZ2BlE/V2IOUwceOpI/AAAAAAAAJFM/0MOt11e7yXw/s1600/PicsArt_11-04-02.05.15.jpg" group-title="Three IPTV",Star Gold 2
 http://45.249.187.238:8081/hls/tsl-3.m3u8
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-_yWhUEZ2BlE/V2IOUwceOpI/AAAAAAAAJFM/0MOt11e7yXw/s1600/PicsArt_11-04-02.05.15.jpg" group-title="Three  IPTV",Sony Ten 2 new
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-_yWhUEZ2BlE/V2IOUwceOpI/AAAAAAAAJFM/0MOt11e7yXw/s1600/PicsArt_11-04-02.05.15.jpg" group-title="Three IPTV",Sony Ten 2 new
 http://103.205.133.14/hls/ten2.m3u8
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-_yWhUEZ2BlE/V2IOUwceOpI/AAAAAAAAJFM/0MOt11e7yXw/s1600/PicsArt_11-04-02.05.15.jpg" group-title="Three  IPTV",Sony Ten 1 new
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-_yWhUEZ2BlE/V2IOUwceOpI/AAAAAAAAJFM/0MOt11e7yXw/s1600/PicsArt_11-04-02.05.15.jpg" group-title="Three IPTV",Sony Ten 1 new
 http://103.205.133.14/hls/ten1.m3u8
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-_yWhUEZ2BlE/V2IOUwceOpI/AAAAAAAAJFM/0MOt11e7yXw/s1600/PicsArt_11-04-02.05.15.jpg" group-title="Three  IPTV",Sony Ten 3 new
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-_yWhUEZ2BlE/V2IOUwceOpI/AAAAAAAAJFM/0MOt11e7yXw/s1600/PicsArt_11-04-02.05.15.jpg" group-title="Three IPTV",Sony Ten 3 new
 http://103.205.133.14/hls/ten3.m3u8
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-_yWhUEZ2BlE/V2IOUwceOpI/AAAAAAAAJFM/0MOt11e7yXw/s1600/PicsArt_11-04-02.05.15.jpg" group-title="Three  IPTV", Sony 8 new
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-_yWhUEZ2BlE/V2IOUwceOpI/AAAAAAAAJFM/0MOt11e7yXw/s1600/PicsArt_11-04-02.05.15.jpg" group-title="Three IPTV", Sony 8 new
 http://103.205.133.14/hls/sony8.m3u8
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-_yWhUEZ2BlE/V2IOUwceOpI/AAAAAAAAJFM/0MOt11e7yXw/s1600/PicsArt_11-04-02.05.15.jpg" group-title="Three  IPTV",Atn Islamic TV
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-_yWhUEZ2BlE/V2IOUwceOpI/AAAAAAAAJFM/0MOt11e7yXw/s1600/PicsArt_11-04-02.05.15.jpg" group-title="Three IPTV",Atn Islamic TV
 http://103.43.148.202:1934/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnislamictv.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-_yWhUEZ2BlE/V2IOUwceOpI/AAAAAAAAJFM/0MOt11e7yXw/s1600/PicsArt_11-04-02.05.15.jpg" group-title="Three  IPTV",Rtv Music
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-_yWhUEZ2BlE/V2IOUwceOpI/AAAAAAAAJFM/0MOt11e7yXw/s1600/PicsArt_11-04-02.05.15.jpg" group-title="Three IPTV",Rtv Music
 http://23.106.120.42:1934/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/rtvmusic.stream/live-orgin/rtvmusic.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-_yWhUEZ2BlE/V2IOUwceOpI/AAAAAAAAJFM/0MOt11e7yXw/s1600/PicsArt_11-04-02.05.15.jpg" group-title="Three  IPTV",Atn Music
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-_yWhUEZ2BlE/V2IOUwceOpI/AAAAAAAAJFM/0MOt11e7yXw/s1600/PicsArt_11-04-02.05.15.jpg" group-title="Three IPTV",Atn Music
 http://103.43.148.202:1934/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnmusic.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="Three  IPTV",MB_BTV National
+#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="Three IPTV",MB_BTV National
 http://45.249.187.238:8081/hls/new21.m3u8
-#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="Three  IPTV",MB_Channel 9
+#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="Three IPTV",MB_Channel 9
 http://45.249.187.238:8081/hls/live3.m3u8
-#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="Three  IPTV",MB_Gazi TV
+#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="Three IPTV",MB_Gazi TV
 http://45.249.187.238:8081/hls/live5.m3u8
-#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="Three  IPTV",MB_Ekattor TV
+#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="Three IPTV",MB_Ekattor TV
 http://45.249.187.238:8081/hls/live6.m3u8
-#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="Three  IPTV",MB_Channel I
+#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="Three IPTV",MB_Channel I
 http://45.249.187.238:8081/hls/live7.m3u8
-#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="Three  IPTV",MB_RTV
+#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="Three IPTV",MB_RTV
 http://45.249.187.238:8081/hls/live1.m3u8
-#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="Three  IPTV",MB_Jamuna TV
+#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="Three IPTV",MB_Jamuna TV
 http://45.249.187.238:8081/hls/live2.m3u8
-#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="Three  IPTV",MB_Deepto TV
+#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="Three IPTV",MB_Deepto TV
 http://45.249.187.238:8081/hls/new22.m3u8
-#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="Three  IPTV",MB_Nagorik TV
+#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="Three IPTV",MB_Nagorik TV
 http://45.249.187.238:8081/hls/new16.m3u8
-#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="Three  IPTV",MB_Asian TV
+#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="Three IPTV",MB_Asian TV
 http://45.249.187.238:8081/hls/new4.m3u8
-#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="Three  IPTV",MB_ATN Three  IPTV
+#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="Three IPTV",MB_ATN Three IPTV
 http://45.249.187.238:8081/hls/new20.m3u8
-#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="Three  IPTV",MB_MY TV
+#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="Three IPTV",MB_MY TV
 http://45.249.187.238:8081/hls/new5.m3u8
-#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="Three  IPTV",MB_Three  IPTV Vision
+#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="Three IPTV",MB_Three IPTV Vision
 http://45.249.187.238:8081/hls/new6.m3u8
-#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="Three  IPTV",MB_News 24
+#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="Three IPTV",MB_News 24
 http://45.249.187.238:8081/hls/live4.m3u8
-#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="Three  IPTV",MB_Independent TV
+#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="Three IPTV",MB_Independent TV
 http://45.249.187.238:8081/hls/hdmi4.m3u8
-#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="Three  IPTV",MB_Somoy News
+#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="Three IPTV",MB_Somoy News
 http://45.249.187.238:8081/hls/hdmi2.m3u8
-#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="Three  IPTV",MB_DBC News
+#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="Three IPTV",MB_DBC News
 http://45.249.187.238:8081/hls/new23.m3u8
-#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="Three  IPTV",MB_Duranto TV
+#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="Three IPTV",MB_Duranto TV
 http://45.249.187.238:8081/hls/new3.m3u8
-#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="Three  IPTV",MB_Zee Three  IPTV
+#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="Three IPTV",MB_Zee Three IPTV
 http://45.249.187.238:8081/hls/new8.m3u8
-#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="Three  IPTV",MB_Songit Three  IPTV
+#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="Three IPTV",MB_Songit Three IPTV
 http://45.249.187.238:8081/hls/new7.m3u8
-#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="Three  IPTV",MB_Zee TV
+#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="Three IPTV",MB_Zee TV
 http://45.249.187.238:8081/hls/tsl-5.m3u8
-#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="Three  IPTV",MB_Star Gold 2
+#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="Three IPTV",MB_Star Gold 2
 http://45.249.187.238:8081/hls/tsl-6.m3u8
-#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="Three  IPTV",MB_Sony Sab
+#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="Three IPTV",MB_Sony Sab
 http://45.249.187.238:8081/hls/tsl-4.m3u8
-#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="Three  IPTV",MB_Star Gold 2
+#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="Three IPTV",MB_Star Gold 2
 http://45.249.187.238:8081/hls/tsl-3.m3u8
-#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="Three  IPTV",MB_And Pictures
+#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="Three IPTV",MB_And Pictures
 http://45.249.187.238:8081/hls/tsl-2.m3u8
-#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="Three  IPTV",MB_UTV Action
+#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="Three IPTV",MB_UTV Action
 http://45.249.187.238:8081/hls/tsl-7.m3u8
-#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="Three  IPTV",MB_Star Three  IPTV 1
+#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="Three IPTV",MB_Star Three IPTV 1
 http://45.249.187.238:8081/hls/new2.m3u8
-#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="Three  IPTV",MB_Sky Net Three  IPTV 1
+#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="Three IPTV",MB_Sky Net Three IPTV 1
 http://45.249.187.238:8081/hls/new1.m3u8
-#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="Three  IPTV",MB_PTV Three  IPTV
+#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="Three IPTV",MB_PTV Three IPTV
 http://45.249.187.238:8081/hls/hdmi3.m3u8
-#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="Three  IPTV",MB_CNN News
+#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="Three IPTV",MB_CNN News
 http://45.249.187.238:8081/hls/new19.m3u8
-#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="Three  IPTV",MB_BBC World News
+#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="Three IPTV",MB_BBC World News
 http://45.249.187.238:8081/hls/new19.m3u8
-#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="Three  IPTV",MB_Atn Three  IPTV
+#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="Three IPTV",MB_Atn Three IPTV
 http://45.249.187.238:8081/hls/new17.m3u8
-#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="Three  IPTV",MB_Movies Now
+#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="Three IPTV",MB_Movies Now
 http://45.249.187.238:8081/hls/new13.m3u8
-#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="Three  IPTV",MB_Star Movies
+#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="Three IPTV",MB_Star Movies
 http://45.249.187.238:8081/hls/tsl-8.m3u8
-#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="Three  IPTV",MB_Lotus Maucu
+#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="Three IPTV",MB_Lotus Maucu
 http://45.249.187.238:8081/hls/new24.m3u8
-#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="Three  IPTV",MB_Cartoon Network
+#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="Three IPTV",MB_Cartoon Network
 http://45.249.187.238:8081/hls/new14.m3u8
-#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="Three  IPTV",MB_Disney
+#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="Three IPTV",MB_Disney
 http://45.249.187.238:8081/hls/live0.m3u8
-#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="Three  IPTV",MB_NO SIGNAL
+#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="Three IPTV",MB_NO SIGNAL
 http://45.249.187.238:8081/hls/hdmi1.m3u8
-#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="Three  IPTV",MB_Animal Planet
+#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="Three IPTV",MB_Animal Planet
 http://45.249.187.238:8081/hls/tsl-1.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-_yWhUEZ2BlE/V2IOUwceOpI/AAAAAAAAJFM/0MOt11e7yXw/s1600/PicsArt_11-04-02.05.15.jpg" group-title="Three  IPTV",Star Three  IPTV Select 1 HD 🐸
-http://87.117.234.107:1935/live/StarThree  IPTVSelect1FHD/playlists.m3u8
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-_yWhUEZ2BlE/V2IOUwceOpI/AAAAAAAAJFM/0MOt11e7yXw/s1600/PicsArt_11-04-02.05.15.jpg" group-title="Three  IPTV",Star Three  IPTV Select 2 HD Bengal
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-_yWhUEZ2BlE/V2IOUwceOpI/AAAAAAAAJFM/0MOt11e7yXw/s1600/PicsArt_11-04-02.05.15.jpg" group-title="Three IPTV",Star Three IPTV Select 1 HD 🐸
+http://87.117.234.107:1935/live/StarThree IPTVSelect1FHD/playlists.m3u8
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-_yWhUEZ2BlE/V2IOUwceOpI/AAAAAAAAJFM/0MOt11e7yXw/s1600/PicsArt_11-04-02.05.15.jpg" group-title="Three IPTV",Star Three IPTV Select 2 HD Bengal
 http://103.84.253.5/live/fastfeed1001/index.m3u8
-#EXTINF:-1 , PK Three  IPTV
-http://23.106.120.42:1934/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/pkThree  IPTV.stream/live-orgin/pkThree  IPTV.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KI_BTV [BD]" tvg-logo="https://i.imgur.com/bWGqJhm.png" group-title="Three  IPTV",KI_BTV [BD]
+#EXTINF:-1 , PK Three IPTV
+http://23.106.120.42:1934/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/pkThree IPTV.stream/live-orgin/pkThree IPTV.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KI_BTV [BD]" tvg-logo="https://i.imgur.com/bWGqJhm.png" group-title="Three IPTV",KI_BTV [BD]
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/19.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KI_ATN Three  IPTV [BD]" tvg-logo="https://i.imgur.com/WCphgzj.png" group-title="Three  IPTV",KI_ATN Three  IPTV [BD]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KI_ATN Three IPTV [BD]" tvg-logo="https://i.imgur.com/WCphgzj.png" group-title="Three IPTV",KI_ATN Three IPTV [BD]
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/10.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KI_CHANNEL I HD [BD]" tvg-logo="https://i.imgur.com/nYRFnW5.png" group-title="Three  IPTV",KI_CHANNEL I HD [BD]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KI_CHANNEL I HD [BD]" tvg-logo="https://i.imgur.com/nYRFnW5.png" group-title="Three IPTV",KI_CHANNEL I HD [BD]
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/4.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KI_EKUSHEY TV [BD]" tvg-logo="https://i.imgur.com/T38Oiwl.jpg" group-title="Three  IPTV",KI_EKUSHEY TV [BD]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KI_EKUSHEY TV [BD]" tvg-logo="https://i.imgur.com/T38Oiwl.jpg" group-title="Three IPTV",KI_EKUSHEY TV [BD]
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/15.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KI_NTV [BD]" tvg-logo="https://i.imgur.com/3usnOla.png" group-title="Three  IPTV",KI_NTV [BD]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KI_NTV [BD]" tvg-logo="https://i.imgur.com/3usnOla.png" group-title="Three IPTV",KI_NTV [BD]
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/9.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KI_RTV HD [BD]" tvg-logo="https://i.imgur.com/UHd3eew.jpg" group-title="Three  IPTV",KI_RTV HD [BD]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KI_RTV HD [BD]" tvg-logo="https://i.imgur.com/UHd3eew.jpg" group-title="Three IPTV",KI_RTV HD [BD]
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/11.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KI_Three  IPTV VISION [BD]" tvg-logo="https://i.imgur.com/00HdGFD.jpg" group-title="Three  IPTV",KI_Three  IPTV VISION [BD]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KI_Three IPTV VISION [BD]" tvg-logo="https://i.imgur.com/00HdGFD.jpg" group-title="Three IPTV",KI_Three IPTV VISION [BD]
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/17.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KI_MY TV [BD]" tvg-logo="https://i.imgur.com/TWuzjbg.jpg" group-title="Three  IPTV",KI_MY TV [BD]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KI_MY TV [BD]" tvg-logo="https://i.imgur.com/TWuzjbg.jpg" group-title="Three IPTV",KI_MY TV [BD]
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/18.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KI_MAASRANGA TV HD [BD]" tvg-logo="https://i.imgur.com/zsahmn3.jpg" group-title="Three  IPTV",KI_MAASRANGA TV HD [BD]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KI_MAASRANGA TV HD [BD]" tvg-logo="https://i.imgur.com/zsahmn3.jpg" group-title="Three IPTV",KI_MAASRANGA TV HD [BD]
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/1.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KI_CHANNEL 9 HD [BD]" tvg-logo="https://i.imgur.com/sTDSKGR.png" group-title="Three  IPTV",KI_CHANNEL 9 HD [BD]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KI_CHANNEL 9 HD [BD]" tvg-logo="https://i.imgur.com/sTDSKGR.png" group-title="Three IPTV",KI_CHANNEL 9 HD [BD]
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/7.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KI_GAZI TV HD [BD]" tvg-logo="https://i.imgur.com/Z0aOgZr.jpg" group-title="Three  IPTV",KI_GAZI TV HD [BD]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KI_GAZI TV HD [BD]" tvg-logo="https://i.imgur.com/Z0aOgZr.jpg" group-title="Three IPTV",KI_GAZI TV HD [BD]
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/6.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KI_SA TV HD [BD]" tvg-logo="https://i.imgur.com/PC5QaK3.jpg" group-title="Three  IPTV",KI_SA TV HD [BD]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KI_SA TV HD [BD]" tvg-logo="https://i.imgur.com/PC5QaK3.jpg" group-title="Three IPTV",KI_SA TV HD [BD]
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/8.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KI_DEEPTO TV HD [BD]" tvg-logo="https://i.imgur.com/giqoc2X.jpg" group-title="Three  IPTV",KI_DEEPTO TV HD [BD]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KI_DEEPTO TV HD [BD]" tvg-logo="https://i.imgur.com/giqoc2X.jpg" group-title="Three IPTV",KI_DEEPTO TV HD [BD]
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/5.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KI_NAGORIK TV HD [BD]" tvg-logo="https://i.imgur.com/tVujSyj.jpg" group-title="Three  IPTV",KI_NAGORIK TV HD [BD]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KI_NAGORIK TV HD [BD]" tvg-logo="https://i.imgur.com/tVujSyj.jpg" group-title="Three IPTV",KI_NAGORIK TV HD [BD]
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/3.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KI_INDEPENDENT TV [BD]" tvg-logo="https://i.imgur.com/AMk8mRZ.png" group-title="Three  IPTV",KI_INDEPENDENT TV [BD]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KI_INDEPENDENT TV [BD]" tvg-logo="https://i.imgur.com/AMk8mRZ.png" group-title="Three IPTV",KI_INDEPENDENT TV [BD]
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/12.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KI_SOMOY TV [BD]" tvg-logo="https://i.imgur.com/18m3T6f.jpg" group-title="Three  IPTV",KI_SOMOY TV [BD]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KI_SOMOY TV [BD]" tvg-logo="https://i.imgur.com/18m3T6f.jpg" group-title="Three IPTV",KI_SOMOY TV [BD]
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/14.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KI_CHANNEL 24 [BD]" tvg-logo="https://i.imgur.com/1bmJ8rT.png" group-title="Three  IPTV",KI_CHANNEL 24 [BD]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KI_CHANNEL 24 [BD]" tvg-logo="https://i.imgur.com/1bmJ8rT.png" group-title="Three IPTV",KI_CHANNEL 24 [BD]
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/16.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KI_EKATTOR TV HD [BD]" tvg-logo="https://i.imgur.com/8neLbDd.jpg" group-title="Three  IPTV",KI_EKATTOR TV HD [BD]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KI_EKATTOR TV HD [BD]" tvg-logo="https://i.imgur.com/8neLbDd.jpg" group-title="Three IPTV",KI_EKATTOR TV HD [BD]
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/2.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KI_JAMUNA TV [BD]" tvg-logo="https://i.imgur.com/GKZxePQ.png" group-title="Three  IPTV",KI_JAMUNA TV [BD]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KI_JAMUNA TV [BD]" tvg-logo="https://i.imgur.com/GKZxePQ.png" group-title="Three IPTV",KI_JAMUNA TV [BD]
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/13.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KI_GAAN Three  IPTV [BD]" tvg-logo="https://i.imgur.com/EuLoh3I.png" group-title="Three  IPTV",KI_GAAN Three  IPTV [BD]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KI_GAAN Three IPTV [BD]" tvg-logo="https://i.imgur.com/EuLoh3I.png" group-title="Three IPTV",KI_GAAN Three IPTV [BD]
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/69.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KI_Durunto TV" tvg-logo="https://i.imgur.com/EG2QRMG.png" group-title="Three  IPTV",KI_Durunto TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KI_Durunto TV" tvg-logo="https://i.imgur.com/EG2QRMG.png" group-title="Three IPTV",KI_Durunto TV
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/63.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KI_Star Jalsha HD" tvg-logo="" group-title="Three  IPTV",KI_Star Jalsha HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KI_Star Jalsha HD" tvg-logo="" group-title="Three IPTV",KI_Star Jalsha HD
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/22.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KI_Zee Three  IPTV HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRiUu8kWuQLwaVp3Fbis5Exy8xPo1HVX2xA_28UcPHY34E4ZKBN&usqp=CAU" group-title="Three  IPTV",KI_Zee Three  IPTV HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KI_Zee Three IPTV HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRiUu8kWuQLwaVp3Fbis5Exy8xPo1HVX2xA_28UcPHY34E4ZKBN&usqp=CAU" group-title="Three IPTV",KI_Zee Three IPTV HD
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/21.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KI_Sony Aath" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTvDWzYRd2mLwaTDUaTaJk0tqetpdwxaX1cXftZR3QHsuC2WsW9&usqp=CAU" group-title="Three  IPTV",KI_Sony Aath
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KI_Sony Aath" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTvDWzYRd2mLwaTDUaTaJk0tqetpdwxaX1cXftZR3QHsuC2WsW9&usqp=CAU" group-title="Three IPTV",KI_Sony Aath
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/20.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KI_Akash Three  IPTV" tvg-logo="" group-title="Three  IPTV",KI_Akash Three  IPTV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KI_Akash Three IPTV" tvg-logo="" group-title="Three IPTV",KI_Akash Three IPTV
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/98.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KI_DD Three  IPTV" tvg-logo="https://dl.dropbox.com/s/9ifctck4cr7wnwp/ddThree  IPTV.jpg" group-title="Three  IPTV",KI_DD Three  IPTV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KI_DD Three IPTV" tvg-logo="https://dl.dropbox.com/s/9ifctck4cr7wnwp/ddThree IPTV.jpg" group-title="Three IPTV",KI_DD Three IPTV
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/57.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KI_Kolkata TV" tvg-logo="https://i.imgur.com/ySyvc3o.jpg" group-title="Three  IPTV",KI_Kolkata TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KI_Kolkata TV" tvg-logo="https://i.imgur.com/ySyvc3o.jpg" group-title="Three IPTV",KI_Kolkata TV
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/59.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KI_Jalsha Movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT5C-fDaaF5RdvNdQcfBQdhCjZ5WBeLWGEn97C1ZTNFKntoh7Hs&usqp=CAU" group-title="Three  IPTV",KI_Jalsha Movies
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KI_Jalsha Movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT5C-fDaaF5RdvNdQcfBQdhCjZ5WBeLWGEn97C1ZTNFKntoh7Hs&usqp=CAU" group-title="Three IPTV",KI_Jalsha Movies
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/25.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KI_Sangeet Three  IPTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSDk5QPMPqAT6lEMJxELAxP0L4-OVMR7qoAJq2676U4KAOHhYO1&usqp=CAU" group-title="Three  IPTV",KI_Sangeet Three  IPTV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KI_Sangeet Three IPTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSDk5QPMPqAT6lEMJxELAxP0L4-OVMR7qoAJq2676U4KAOHhYO1&usqp=CAU" group-title="Three IPTV",KI_Sangeet Three IPTV
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/70.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KI_Star Plus" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTsqYP00JX6oXBCFzX0G7LdQ1GUt-yGdEn7dFB5V7hHYhca30g-&usqp=CAU" group-title="Three  IPTV",KI_Star Plus
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KI_Star Plus" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTsqYP00JX6oXBCFzX0G7LdQ1GUt-yGdEn7dFB5V7hHYhca30g-&usqp=CAU" group-title="Three IPTV",KI_Star Plus
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/27.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KI_Sony TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6c/SET_India.jpg" group-title="Three  IPTV",KI_Sony TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KI_Sony TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6c/SET_India.jpg" group-title="Three IPTV",KI_Sony TV
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/26.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KI_Zee TV" tvg-logo="https://cdn.clipart.email/8291b06b35c5c60621d830d0926a1a21_index-of-plexflixto-picons-indian-_1024-484.png" group-title="Three  IPTV",KI_Zee TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KI_Zee TV" tvg-logo="https://cdn.clipart.email/8291b06b35c5c60621d830d0926a1a21_index-of-plexflixto-picons-indian-_1024-484.png" group-title="Three IPTV",KI_Zee TV
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/28.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KI_Colors" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Colors_tv2017.png" group-title="Three  IPTV",KI_Colors
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KI_Colors" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Colors_tv2017.png" group-title="Three IPTV",KI_Colors
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/30.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KI_AXN HD" tvg-logo="https://i.imgur.com/g7KwMCf.png" group-title="Three  IPTV",KI_AXN HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KI_AXN HD" tvg-logo="https://i.imgur.com/g7KwMCf.png" group-title="Three IPTV",KI_AXN HD
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/42.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KI_Star Gold" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRDUmB0gIAi09V2fJJ6Q9ScGRq3os4iPwinzyaJci8mPVMj5zvR&usqp=CAU" group-title="Three  IPTV",KI_Star Gold
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KI_Star Gold" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRDUmB0gIAi09V2fJJ6Q9ScGRq3os4iPwinzyaJci8mPVMj5zvR&usqp=CAU" group-title="Three IPTV",KI_Star Gold
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/32.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KI_Sony Max HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQFbWw-P6-HFTLl0rYmk8DzFOBek564ZpTlK8Nek5lHzq-8niJ2&usqp=CAU" group-title="Three  IPTV",KI_Sony Max HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KI_Sony Max HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQFbWw-P6-HFTLl0rYmk8DzFOBek564ZpTlK8Nek5lHzq-8niJ2&usqp=CAU" group-title="Three IPTV",KI_Sony Max HD
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/31.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KI_Zee Cinema" tvg-logo="" group-title="Three  IPTV",KI_Zee Cinema
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KI_Zee Cinema" tvg-logo="" group-title="Three IPTV",KI_Zee Cinema
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/29.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KI_TVP" tvg-logo="" group-title="Three  IPTV",KI_TVP
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KI_TVP" tvg-logo="" group-title="Three IPTV",KI_TVP
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/35.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KI_Star Movies SD" tvg-logo="https://i.imgur.com/NIfMrhI.png" group-title="Three  IPTV",KI_Star Movies SD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KI_Star Movies SD" tvg-logo="https://i.imgur.com/NIfMrhI.png" group-title="Three IPTV",KI_Star Movies SD
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/43.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KI_HBO" tvg-logo="https://i.imgur.com/L8LTymM.jpg" group-title="Three  IPTV",KI_HBO
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KI_HBO" tvg-logo="https://i.imgur.com/L8LTymM.jpg" group-title="Three IPTV",KI_HBO
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/44.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KI_MN+ HD" tvg-logo="https://i.imgur.com/QPcVm2h.png" group-title="Three  IPTV",KI_MN+ HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KI_MN+ HD" tvg-logo="https://i.imgur.com/QPcVm2h.png" group-title="Three IPTV",KI_MN+ HD
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/38.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KI_Sony Pix SD" tvg-logo="https://i.imgur.com/t3yOea1.jpg" group-title="Three  IPTV",KI_Sony Pix SD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KI_Sony Pix SD" tvg-logo="https://i.imgur.com/t3yOea1.jpg" group-title="Three IPTV",KI_Sony Pix SD
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/39.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KI_& Flix" tvg-logo="https://i.imgur.com/gHBvHes.jpg" group-title="Three  IPTV",KI_& Flix
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KI_& Flix" tvg-logo="https://i.imgur.com/gHBvHes.jpg" group-title="Three IPTV",KI_& Flix
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/40.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KI_Sony Ten 1" tvg-logo="https://i.imgur.com/HOB0eef.jpg" group-title="Three  IPTV",KI_Sony Ten 1
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KI_Sony Ten 1" tvg-logo="https://i.imgur.com/HOB0eef.jpg" group-title="Three IPTV",KI_Sony Ten 1
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/47.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KI_Sony Ten 2" tvg-logo="https://i.imgur.com/Ryh5Cdy.jpg" group-title="Three  IPTV",KI_Sony Ten 2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KI_Sony Ten 2" tvg-logo="https://i.imgur.com/Ryh5Cdy.jpg" group-title="Three IPTV",KI_Sony Ten 2
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/50.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KI_Sony SIX HD" tvg-logo="https://i.imgur.com/O8Ag5jI.jpg?1" group-title="Three  IPTV",KI_Sony SIX HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KI_Sony SIX HD" tvg-logo="https://i.imgur.com/O8Ag5jI.jpg?1" group-title="Three IPTV",KI_Sony SIX HD
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/49.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KI_Star Three  IPTV 1 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSNVGhs7QhbNaKPnV8CB3v-AWYPXm0Ogk67mx__hKnLLrEddb-y&usqp=CAU" group-title="Three  IPTV",KI_Star Three  IPTV 1 HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KI_Star Three IPTV 1 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSNVGhs7QhbNaKPnV8CB3v-AWYPXm0Ogk67mx__hKnLLrEddb-y&usqp=CAU" group-title="Three IPTV",KI_Star Three IPTV 1 HD
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/53.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KI_Star Three  IPTV Select 1 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRTRFl6hSXeS1mPQ0DqOy3GU_JVY45Yj2x-pTR4orQrheauFZQD&usqp=CAU" group-title="Three  IPTV",KI_Star Three  IPTV Select 1 HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KI_Star Three IPTV Select 1 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRTRFl6hSXeS1mPQ0DqOy3GU_JVY45Yj2x-pTR4orQrheauFZQD&usqp=CAU" group-title="Three IPTV",KI_Star Three IPTV Select 1 HD
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/51.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KI_Star Three  IPTV Select 2 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQLJgDCNnSBTB40fYZEqNlHlemsytR0lzCqlhH8a-ksiN1ZH9LS&usqp=CAU" group-title="Three  IPTV",KI_Star Three  IPTV Select 2 HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KI_Star Three IPTV Select 2 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQLJgDCNnSBTB40fYZEqNlHlemsytR0lzCqlhH8a-ksiN1ZH9LS&usqp=CAU" group-title="Three IPTV",KI_Star Three IPTV Select 2 HD
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/52.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KI_D Three  IPTV" tvg-logo="" group-title="Three  IPTV",KI_D Three  IPTV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KI_D Three IPTV" tvg-logo="" group-title="Three IPTV",KI_D Three IPTV
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/54.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KI_Discovery HD" tvg-logo="https://latestlearnerships.com/wp-content/uploads/2016/11/discovery-careers-jobs-internships-vacancies-learnership-programme-310x165.jpg" group-title="Three  IPTV",KI_Discovery HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KI_Discovery HD" tvg-logo="https://latestlearnerships.com/wp-content/uploads/2016/11/discovery-careers-jobs-internships-vacancies-learnership-programme-310x165.jpg" group-title="Three IPTV",KI_Discovery HD
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/61.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KI_TLC HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRgc1vT5dGh0YGYKyNaYGpvazCi4uo-lKPX9jqtkigdmwKSDtcb&usqp=CAU" group-title="Three  IPTV",KI_TLC HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KI_TLC HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRgc1vT5dGh0YGYKyNaYGpvazCi4uo-lKPX9jqtkigdmwKSDtcb&usqp=CAU" group-title="Three IPTV",KI_TLC HD
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/45.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KI_BBC Lifestyle" tvg-logo="https://i.imgur.com/uofhcTE.jpg" group-title="Three  IPTV",KI_BBC Lifestyle
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KI_BBC Lifestyle" tvg-logo="https://i.imgur.com/uofhcTE.jpg" group-title="Three IPTV",KI_BBC Lifestyle
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/46.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KI_BBC EARTH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png" group-title="Three  IPTV",KI_BBC EARTH
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KI_BBC EARTH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png" group-title="Three IPTV",KI_BBC EARTH
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/62.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KI_History TV 18 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRwY3NXkCDkCBfaTMJfhirOv7qudK_V8-RU_C-uDdPGJ6KUtL2T&usqp=CAU" group-title="Three  IPTV",KI_History TV 18 HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KI_History TV 18 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRwY3NXkCDkCBfaTMJfhirOv7qudK_V8-RU_C-uDdPGJ6KUtL2T&usqp=CAU" group-title="Three IPTV",KI_History TV 18 HD
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/86.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KI_Travel XP" tvg-logo="" group-title="Three  IPTV",KI_Travel XP
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KI_Travel XP" tvg-logo="" group-title="Three IPTV",KI_Travel XP
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/23.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KI_Hum Masala" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTuIXMj-Ohe0Ht1zMCHMZjDNO-__D-dsNdnMYZILywDUr8fXHIq&usqp=CAU" group-title="Three  IPTV",KI_Hum Masala
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KI_Hum Masala" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTuIXMj-Ohe0Ht1zMCHMZjDNO-__D-dsNdnMYZILywDUr8fXHIq&usqp=CAU" group-title="Three IPTV",KI_Hum Masala
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/33.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KI_E24 Music" tvg-logo="" group-title="Three  IPTV",KI_E24 Music
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KI_E24 Music" tvg-logo="" group-title="Three IPTV",KI_E24 Music
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/83.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KI_Zing" tvg-logo="" group-title="Three  IPTV",KI_Zing
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KI_Zing" tvg-logo="" group-title="Three IPTV",KI_Zing
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/81.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KI_B4U Music" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTwPpZG-Zc721qCuySetMdAPcQ9qbGopnwBgov06dLITRWNQGoc&usqp=CAU" group-title="Three  IPTV",KI_B4U Music
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KI_B4U Music" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTwPpZG-Zc721qCuySetMdAPcQ9qbGopnwBgov06dLITRWNQGoc&usqp=CAU" group-title="Three IPTV",KI_B4U Music
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/79.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KI_Music India" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTEUfSAD9DRRjtjW1MzoFtgmqm-iUMNV7VGgf3ozgV5LdIVTqMy&usqp=CAU" group-title="Three  IPTV",KI_Music India
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KI_Music India" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTEUfSAD9DRRjtjW1MzoFtgmqm-iUMNV7VGgf3ozgV5LdIVTqMy&usqp=CAU" group-title="Three IPTV",KI_Music India
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/84.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KI_Zee ETC" tvg-logo="" group-title="Three  IPTV",KI_Zee ETC
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KI_Zee ETC" tvg-logo="" group-title="Three IPTV",KI_Zee ETC
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/73.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KI_MTV" tvg-logo="" group-title="Three  IPTV",KI_MTV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KI_MTV" tvg-logo="" group-title="Three IPTV",KI_MTV
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/75.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KI_Masti Music" tvg-logo="" group-title="Three  IPTV",KI_Masti Music
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KI_Masti Music" tvg-logo="" group-title="Three IPTV",KI_Masti Music
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/78.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KI_BBC World" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQG_YlH8uhXAfE4OsY-dNpR9MNEGYuXf0mEjT32EGDgrsbxUzsE&usqp=CAU" group-title="Three  IPTV",KI_BBC World
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KI_BBC World" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQG_YlH8uhXAfE4OsY-dNpR9MNEGYuXf0mEjT32EGDgrsbxUzsE&usqp=CAU" group-title="Three IPTV",KI_BBC World
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/56.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KI_CARTOON NETWORK HD+" tvg-logo="https://i.imgur.com/M9Z5cfD.png" group-title="Three  IPTV",KI_CARTOON NETWORK HD+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KI_CARTOON NETWORK HD+" tvg-logo="https://i.imgur.com/M9Z5cfD.png" group-title="Three IPTV",KI_CARTOON NETWORK HD+
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/64.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KI_Disney XD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Logo_Disney_XD.svg/1280px-Logo_Disney_XD.svg.png" group-title="Three  IPTV",KI_Disney XD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KI_Disney XD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Logo_Disney_XD.svg/1280px-Logo_Disney_XD.svg.png" group-title="Three IPTV",KI_Disney XD
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/65.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KI_BBC Cbeebies" tvg-logo="https://i.imgur.com/4EdpqA7.png" group-title="Three  IPTV",KI_BBC Cbeebies
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KI_BBC Cbeebies" tvg-logo="https://i.imgur.com/4EdpqA7.png" group-title="Three IPTV",KI_BBC Cbeebies
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/67.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KI_NICK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nick.svg/330px-Nick.svg.png" group-title="Three  IPTV",KI_NICK
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KI_NICK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nick.svg/330px-Nick.svg.png" group-title="Three IPTV",KI_NICK
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/68.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KI_Hum Sitary" tvg-logo="" group-title="Three  IPTV",KI_Hum Sitary
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KI_Hum Sitary" tvg-logo="" group-title="Three IPTV",KI_Hum Sitary
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/34.ts
 
 
 
 http://103.49.168.172:8081/ebox/in_animalplanet_hd/playlist.m3u8
-#EXTINF:-1 tvg-id="488" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Action.png" group-title="Three  IPTV",Zee Action
+#EXTINF:-1 tvg-id="488" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Action.png" group-title="Three IPTV",Zee Action
 http://iptv.mirrorace.net/?channelid=488
-#EXTINF:-1 tvg-id="" tvg-name="|Three  IPTV| TEN 2 HD" tvg-logo="" group-title="Three  IPTV",|Three  IPTV| TEN 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="|Three IPTV| TEN 2 HD" tvg-logo="" group-title="Three IPTV",|Three IPTV| TEN 2 HD
 http://rv.therevenge.co:80/live/0YeiJ2arqP/nuDvIG0bE8/74423.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|Three  IPTV| STAR Three  IPTV SELECT 1 HD" tvg-logo="" group-title="Three  IPTV",|Three  IPTV| STAR Three  IPTV SELECT 1 HD
+#EXTINF:-1 tvg-id="" tvg-name="|Three IPTV| STAR Three IPTV SELECT 1 HD" tvg-logo="" group-title="Three IPTV",|Three IPTV| STAR Three IPTV SELECT 1 HD
 http://rv.therevenge.co:80/live/0YeiJ2arqP/nuDvIG0bE8/74426.m3u8
-#EXTINF:-1 tvg-id="488" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Action.png" group-title="Three  IPTV",Zee Action
+#EXTINF:-1 tvg-id="488" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Action.png" group-title="Three IPTV",Zee Action
 http://45.249.187.238:8081/hls/tsl-3.m3u8
-#EXTINF:-1 group-title="Three  IPTV",Real Madrid Tv
+#EXTINF:-1 group-title="Three IPTV",Real Madrid Tv
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Z0aOgZr.jpg" group-title="Three  IPTV",AMR_GAZI TV HD [BD]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z0aOgZr.jpg" group-title="Three IPTV",AMR_GAZI TV HD [BD]
 http://103.214.202.218:8081/live/gazi-bd/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zsahmn3.jpg" group-title="Three  IPTV",AMR_MAASRANGA TV HD [BD]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zsahmn3.jpg" group-title="Three IPTV",AMR_MAASRANGA TV HD [BD]
 http://103.214.202.218:8081/live/maasranga/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sTDSKGR.png" group-title="Three  IPTV",AMR_CHANNEL 9 HD [BD]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sTDSKGR.png" group-title="Three IPTV",AMR_CHANNEL 9 HD [BD]
 http://103.214.202.218:8081/live/channel9-15/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/giqoc2X.jpg" group-title="Three  IPTV",AMR_DEEPTO TV HD [BD]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/giqoc2X.jpg" group-title="Three IPTV",AMR_DEEPTO TV HD [BD]
 http://103.214.202.218:8081/live/deepto/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yGgvoxY.png" group-title="Three  IPTV",AMR_ASIAN TV HD [BD]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yGgvoxY.png" group-title="Three IPTV",AMR_ASIAN TV HD [BD]
 http://103.214.202.218:8081/live/asiantv-bd/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3usnOla.png" group-title="Three  IPTV",AMR_NTV [BD]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3usnOla.png" group-title="Three IPTV",AMR_NTV [BD]
 http://103.214.202.218:8081/live/ntv/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UHd3eew.jpg" group-title="Three  IPTV",AMR_RTV HD [BD]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UHd3eew.jpg" group-title="Three IPTV",AMR_RTV HD [BD]
 http://103.214.202.218:8081/live/rtv/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ykaweLI.jpg" group-title="Three  IPTV",AMR_ATN NEWS TV [BD]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ykaweLI.jpg" group-title="Three IPTV",AMR_ATN NEWS TV [BD]
 http://103.214.202.218:8081/live/atnnews-bd/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KXsOj3L.png" group-title="Three  IPTV",AMR_BOISHAKHI TV [BD]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KXsOj3L.png" group-title="Three IPTV",AMR_BOISHAKHI TV [BD]
 http://103.214.202.218:8081/live/boishakhi-bd/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YWVt5Yw.jpg" group-title="Three  IPTV",AMR_Three  IPTV TV HD [BD]
-http://103.214.202.218:8081/live/Three  IPTVtv-19/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8neLbDd.jpg" group-title="Three  IPTV",AMR_EKATTOR TV HD [BD]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YWVt5Yw.jpg" group-title="Three IPTV",AMR_Three IPTV TV HD [BD]
+http://103.214.202.218:8081/live/Three IPTVtv-19/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8neLbDd.jpg" group-title="Three IPTV",AMR_EKATTOR TV HD [BD]
 http://103.214.202.218:8081/live/ekattor-bd/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PC5QaK3.jpg" group-title="Three  IPTV",AMR_SA TV HD [BD]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PC5QaK3.jpg" group-title="Three IPTV",AMR_SA TV HD [BD]
 http://103.214.202.218:8081/live/satv-22/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tVujSyj.jpg" group-title="Three  IPTV",AMR_NAGORIK TV HD [BD]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tVujSyj.jpg" group-title="Three IPTV",AMR_NAGORIK TV HD [BD]
 http://103.214.202.218:8081/live/nagorik/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eP45j9z.jpg" group-title="Three  IPTV",AMR_MOHONA TV [BD]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eP45j9z.jpg" group-title="Three IPTV",AMR_MOHONA TV [BD]
 http://103.214.202.218:8081/live/mohona/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/H9OZgxA.png" group-title="Three  IPTV",AMR_NEWS 24 HD [BD]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/H9OZgxA.png" group-title="Three IPTV",AMR_NEWS 24 HD [BD]
 http://103.214.202.218:8081/live/news24-24/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WmLw772.png" group-title="Three  IPTV",AMR_DBC NEWS HD [BD]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WmLw772.png" group-title="Three IPTV",AMR_DBC NEWS HD [BD]
 http://103.214.202.218:8081/live/dbc/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AMk8mRZ.png" group-title="Three  IPTV",AMR_INDEPENDENT TV [BD]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AMk8mRZ.png" group-title="Three IPTV",AMR_INDEPENDENT TV [BD]
 http://103.214.202.218:8081/live/independent/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/18m3T6f.jpg" group-title="Three  IPTV",AMR_SOMOY TV [BD]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/18m3T6f.jpg" group-title="Three IPTV",AMR_SOMOY TV [BD]
 http://103.214.202.218:8081/live/somoy/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GKZxePQ.png" group-title="Three  IPTV",AMR_JAMUNA TV [BD]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GKZxePQ.png" group-title="Three IPTV",AMR_JAMUNA TV [BD]
 http://103.214.202.218:8081/live/jamuna/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WCphgzj.png" group-title="Three  IPTV",AMR_ATN Three  IPTV [BD]
-http://103.214.202.218:8081/live/atnThree  IPTV/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nYRFnW5.png" group-title="Three  IPTV",AMR_CHANNEL I HD [BD]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WCphgzj.png" group-title="Three IPTV",AMR_ATN Three IPTV [BD]
+http://103.214.202.218:8081/live/atnThree IPTV/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nYRFnW5.png" group-title="Three IPTV",AMR_CHANNEL I HD [BD]
 http://103.214.202.218:8081/live/channeli/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TWuzjbg.jpg" group-title="Three  IPTV",AMR_MY TV [BD]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TWuzjbg.jpg" group-title="Three IPTV",AMR_MY TV [BD]
 http://103.214.202.218:8081/live/mytv/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/T38Oiwl.jpg" group-title="Three  IPTV",AMR_EKUSHEY TV [BD]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/T38Oiwl.jpg" group-title="Three IPTV",AMR_EKUSHEY TV [BD]
 http://103.214.202.218:8081/live/ekushey/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EuLoh3I.png" group-title="Three  IPTV",AMR_BIJOY TV [BD]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EuLoh3I.png" group-title="Three IPTV",AMR_BIJOY TV [BD]
 http://103.214.202.218:8081/live/bijoytv/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7Q3VtlF.png" group-title="Three  IPTV",AMR_ATN Islam
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7Q3VtlF.png" group-title="Three IPTV",AMR_ATN Islam
 http://103.214.202.218:8081/live/atnislamictv/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/NNrhMTT/ATN-music.jpg" group-title="Three  IPTV",AMR_ATN MUSIC TV [BD]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NNrhMTT/ATN-music.jpg" group-title="Three IPTV",AMR_ATN MUSIC TV [BD]
 http://103.214.202.218:8081/live/atnmusic/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oMXI9Dv.png" group-title="Three  IPTV",AMR_GAAN Three  IPTV HD [BD]
-http://103.214.202.218:8081/live/gaanThree  IPTV-21/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/D6jGMpw.jpg" group-title="Three  IPTV",AMR_Star Jalsha HD [IN]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oMXI9Dv.png" group-title="Three IPTV",AMR_GAAN Three IPTV HD [BD]
+http://103.214.202.218:8081/live/gaanThree IPTV-21/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/D6jGMpw.jpg" group-title="Three IPTV",AMR_Star Jalsha HD [IN]
 http://103.214.202.218:8081/live/starjalsha/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fLLse5Q.jpg" group-title="Three  IPTV",AMR_Zee Three  IPTV HD [IN]
-http://103.214.202.218:8081/live/zeeThree  IPTVhd-25/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7DKPT1P.jpg?1" group-title="Three  IPTV",AMR_Colors Three  IPTV HD [IN]
-http://103.214.202.218:8081/live/colorsThree  IPTV-59/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hAmFkQB.jpg" group-title="Three  IPTV",AMR_Jalsha Movies [IN]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fLLse5Q.jpg" group-title="Three IPTV",AMR_Zee Three IPTV HD [IN]
+http://103.214.202.218:8081/live/zeeThree IPTVhd-25/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7DKPT1P.jpg?1" group-title="Three IPTV",AMR_Colors Three IPTV HD [IN]
+http://103.214.202.218:8081/live/colorsThree IPTV-59/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hAmFkQB.jpg" group-title="Three IPTV",AMR_Jalsha Movies [IN]
 http://103.214.202.218:8081/live/jalshamovies/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WvrfVsv.jpg" group-title="Three  IPTV",AMR_Zee Three  IPTV Cinema [IN]
-http://103.214.202.218:8081/live/zeeThree  IPTVcinema-33/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/klVzNhT.png" group-title="Three  IPTV",AMR_Sangeet Three  IPTV [IN]
-http://ddn.amrbd.com:8081/live/sangeetThree  IPTV/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TBwHZ9k.jpg" group-title="Three  IPTV",AMR_STAR PLUS HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WvrfVsv.jpg" group-title="Three IPTV",AMR_Zee Three IPTV Cinema [IN]
+http://103.214.202.218:8081/live/zeeThree IPTVcinema-33/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/klVzNhT.png" group-title="Three IPTV",AMR_Sangeet Three IPTV [IN]
+http://ddn.amrbd.com:8081/live/sangeetThree IPTV/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TBwHZ9k.jpg" group-title="Three IPTV",AMR_STAR PLUS HD
 http://ddn.amrbd.com:8081/live/starplus/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HcUrbQp.jpg" group-title="Three  IPTV",AMR_SONY HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HcUrbQp.jpg" group-title="Three IPTV",AMR_SONY HD
 http://103.214.202.218:8081/live/sony-40/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xN5TNtJ.png" group-title="Three  IPTV",AMR_Zee TV HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xN5TNtJ.png" group-title="Three IPTV",AMR_Zee TV HD
 http://103.214.202.218:8081/live/zeetv-31/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/F1Wtani.jpg" group-title="Three  IPTV",AMR_And TV HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/F1Wtani.jpg" group-title="Three IPTV",AMR_And TV HD
 http://103.214.202.218:8081/live/andtv-27/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DRImUvN.jpg" group-title="Three  IPTV",AMR_Star Gold HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DRImUvN.jpg" group-title="Three IPTV",AMR_Star Gold HD
 http://ddn.amrbd.com:8081/live/stargold/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2hPF1YB.png" group-title="Three  IPTV",AMR_SONY SET MAX HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2hPF1YB.png" group-title="Three IPTV",AMR_SONY SET MAX HD
 http://103.214.202.218:8081/live/satmax-37/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TcGPubh.jpg" group-title="Three  IPTV",AMR_Zee Cinema HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TcGPubh.jpg" group-title="Three IPTV",AMR_Zee Cinema HD
 http://103.214.202.218:8081/live/zeecinema-34/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RcuFK1k.jpg" group-title="Three  IPTV",AMR_And Picture HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RcuFK1k.jpg" group-title="Three IPTV",AMR_And Picture HD
 http://103.214.202.218:8081/live/andpicture-26/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FvHpAvR.png" group-title="Three  IPTV",AMR_Zee Action
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FvHpAvR.png" group-title="Three IPTV",AMR_Zee Action
 http://103.214.202.218:8081/live/zeeaction-35/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VcVtzDM.png" group-title="Three  IPTV",AMR_B4U Kadak
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VcVtzDM.png" group-title="Three IPTV",AMR_B4U Kadak
 http://103.144.200.7:8080/hls/b4uka/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="Three  IPTV",AMR_Star Three  IPTV 1 HD
-http://103.214.202.218:8081/live/starThree  IPTV1/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="Three  IPTV",AMR_Star Three  IPTV 2 HD
-http://103.214.202.218:8081/live/starThree  IPTV2/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9w8g48Y.jpg" group-title="Three  IPTV",AMR_Star Three  IPTV Select 1 HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="Three IPTV",AMR_Star Three IPTV 1 HD
+http://103.214.202.218:8081/live/starThree IPTV1/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="Three IPTV",AMR_Star Three IPTV 2 HD
+http://103.214.202.218:8081/live/starThree IPTV2/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9w8g48Y.jpg" group-title="Three IPTV",AMR_Star Three IPTV Select 1 HD
 http://103.214.202.218:8081/live/select1/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9w8g48Y.jpg" group-title="Three  IPTV",AMR_Star Three  IPTV Select 2 HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9w8g48Y.jpg" group-title="Three IPTV",AMR_Star Three IPTV Select 2 HD
 http://103.214.202.218:8081/live/select2/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RgdbIbc.png" group-title="Three  IPTV",AMR_Sony Ten 1 HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RgdbIbc.png" group-title="Three IPTV",AMR_Sony Ten 1 HD
 http://103.214.202.218:8081/live/ten1hd/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NvVbPky.png" group-title="Three  IPTV",AMR_Sony Ten 2 HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NvVbPky.png" group-title="Three IPTV",AMR_Sony Ten 2 HD
 http://103.214.202.218:8081/live/ten2hd/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9mL944k.jpg" group-title="Three  IPTV",AMR_Sony Ten 3 HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9mL944k.jpg" group-title="Three IPTV",AMR_Sony Ten 3 HD
 http://103.214.202.218:8081/live/ten3hd/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VydQYEg.jpg" group-title="Three  IPTV",AMR_ESPN HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VydQYEg.jpg" group-title="Three IPTV",AMR_ESPN HD
 http://103.214.202.218:8081/live/espnhd/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nOrLoWi.jpg" group-title="Three  IPTV",AMR_Willow Cricket HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nOrLoWi.jpg" group-title="Three IPTV",AMR_Willow Cricket HD
 http://ddn.amrbd.com:8081/live/willo-hd/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ESeGnT2.jpg" group-title="Three  IPTV",AMR_Discovery HD
-http://103.214.202.218:8081/live/starThree  IPTV2/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/220px-2018_Animal_Planet_logo.svg.png" group-title="Three  IPTV",AMR_ANIMAL PLANET HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ESeGnT2.jpg" group-title="Three IPTV",AMR_Discovery HD
+http://103.214.202.218:8081/live/starThree IPTV2/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/220px-2018_Animal_Planet_logo.svg.png" group-title="Three IPTV",AMR_ANIMAL PLANET HD
 http://103.214.202.218:8081/live/animalplanet-13/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gQuUBTU.png" group-title="Three  IPTV",AMR_NGC
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gQuUBTU.png" group-title="Three IPTV",AMR_NGC
 http://103.214.202.218:8081/live/natgeohd/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/13VA7Sh.jpg" group-title="Three  IPTV",AMR_NAT GEO WILD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/13VA7Sh.jpg" group-title="Three IPTV",AMR_NAT GEO WILD
 http://103.214.202.218:8081/live/natgeowild/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5adlvsI.png" group-title="Three  IPTV",AMR_NAT GEO PEOPLE
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5adlvsI.png" group-title="Three IPTV",AMR_NAT GEO PEOPLE
 http://103.214.202.218:8081/live/natgeop/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XvlPBV4.png" group-title="Three  IPTV",AMR_History TV HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XvlPBV4.png" group-title="Three IPTV",AMR_History TV HD
 http://103.214.202.218:8081/live/history/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UxBVq6Z.png" group-title="Three  IPTV",AMR_BBC News
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UxBVq6Z.png" group-title="Three IPTV",AMR_BBC News
 http://103.214.202.218:8081/live/bbcearth-47/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XlJxZhQ.jpg" group-title="Three  IPTV",AMR_& Prive HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XlJxZhQ.jpg" group-title="Three IPTV",AMR_& Prive HD
 http://103.214.202.218:8081/live/andprive-28/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gHBvHes.jpg" group-title="Three  IPTV",AMR_& Flix HD 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gHBvHes.jpg" group-title="Three IPTV",AMR_& Flix HD 
 http://103.214.202.218:8081/live/andflix-29/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/L8LTymM.jpg" group-title="Three  IPTV",AMR_HBO HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L8LTymM.jpg" group-title="Three IPTV",AMR_HBO HD
 http://103.214.202.218:8081/live/hbohd/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7mxlvs6.png" group-title="Three  IPTV",AMR_MNX
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7mxlvs6.png" group-title="Three IPTV",AMR_MNX
 http://103.214.202.218:8081/live/mnx/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qowJChe.jpg?1" group-title="Three  IPTV",AMR_Movies Now
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qowJChe.jpg?1" group-title="Three IPTV",AMR_Movies Now
 http://103.214.202.218:8081/live/moviesnow/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bjWCDBZ.jpg" group-title="Three  IPTV",AMR_ROMEDY NOW
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bjWCDBZ.jpg" group-title="Three IPTV",AMR_ROMEDY NOW
 http://103.214.202.218:8081/live/romedynow/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NIfMrhI.png" group-title="Three  IPTV",AMR_Star Movies
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NIfMrhI.png" group-title="Three IPTV",AMR_Star Movies
 http://103.214.202.218:8081/live/starmovies/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gkp0htr.jpg" group-title="Three  IPTV",AMR_Zee Cafe HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gkp0htr.jpg" group-title="Three IPTV",AMR_Zee Cafe HD
 http://103.214.202.218:8081/live/zeecafe-30/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7shBbvL.png" group-title="Three  IPTV",AMR_STAR WORLD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7shBbvL.png" group-title="Three IPTV",AMR_STAR WORLD
 http://103.214.202.218:8081/live/startworld/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wzg83W0.jpg" group-title="Three  IPTV",AMR_Zoom
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wzg83W0.jpg" group-title="Three IPTV",AMR_Zoom
 http://103.214.202.218:8081/live/zoom-60/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HH5n3Ua.jpg" group-title="Three  IPTV",AMR_Music Mastii
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HH5n3Ua.jpg" group-title="Three IPTV",AMR_Music Mastii
 http://103.214.202.218:8081/live/mastimusic-65/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RgdbIbc.png" group-title="Three  IPTV",Sony Ten 1 HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RgdbIbc.png" group-title="Three IPTV",Sony Ten 1 HD
 https://load.airtel.tv/sonyten1hd/smil:common.smil/chunklist_b896000_DVR_sleng.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RgdbIbc.png" group-title="Three  IPTV",Sony Ten 2 HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RgdbIbc.png" group-title="Three IPTV",Sony Ten 2 HD
 https://load.airtel.tv/sonyten2hd/smil:common.smil/chunklist_b896000_DVR_sleng.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RgdbIbc.png" group-title="Three  IPTV",Sony Ten 3 HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RgdbIbc.png" group-title="Three IPTV",Sony Ten 3 HD
 https://load.airtel.tv/sonyten3hd/smil:common.smil/chunklist_b896000_DVR_sleng.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YHa03Rq.png" group-title="Three  IPTV",SONY MAX (2)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YHa03Rq.png" group-title="Three IPTV",SONY MAX (2)
 https://load.airtel.tv/sonymax/smil:common.smil/chunklist_b896000_DVR_sleng.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0piOCHd.png?1" group-title="Three  IPTV",Sony MAX2 (2)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0piOCHd.png?1" group-title="Three IPTV",Sony MAX2 (2)
 https://load.airtel.tv/sonymax/smil:common.smil/chunklist_b896000_DVR_sleng.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/v9QJ1co.jpg" group-title="Three  IPTV",SONY WAH (2)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/v9QJ1co.jpg" group-title="Three IPTV",SONY WAH (2)
 https://load.airtel.tv/sonywah/smil:common.smil/chunklist_b896000_sleng.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/ul1hoiovemyyhp8/channel_i.png" group-title="Three  IPTV",CHANNEL I HD [BD]
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/ul1hoiovemyyhp8/channel_i.png" group-title="Three IPTV",CHANNEL I HD [BD]
 http://103.102.136.106:8080/cmcltv/channeli_th.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/189fwepu9ab32gw/channel9_bd.png" group-title="Three  IPTV",CHANNEL 9 HD [BD]
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/189fwepu9ab32gw/channel9_bd.png" group-title="Three IPTV",CHANNEL 9 HD [BD]
 http://103.102.136.106:8080/cmcltv/channel9_th.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/189fwepu9ab32gw/channel9_bd.png" group-title="Three  IPTV",Gazi TV HD [BD]
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/189fwepu9ab32gw/channel9_bd.png" group-title="Three IPTV",Gazi TV HD [BD]
 http://103.102.136.106:8080/cmcltv/gtv_th.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Maasranga_Television_Logo.jpg/180px-Maasranga_Television_Logo.jpg" group-title="Three  IPTV",Maasraga TV HD [BD]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Maasranga_Television_Logo.jpg/180px-Maasranga_Television_Logo.jpg" group-title="Three IPTV",Maasraga TV HD [BD]
 http://103.102.136.106:8080/cmcltv/masranga_th.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/leielj83em5kg7h/somoy_news.png" group-title="Three  IPTV",SOMOY TV [BD]
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/leielj83em5kg7h/somoy_news.png" group-title="Three IPTV",SOMOY TV [BD]
 http://103.102.136.106:8080/cmcltv/somoy_th.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/puf12xv5flgbnz5/channel24_bd.png" group-title="Three  IPTV",CHANNEL 24 [BD]
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/puf12xv5flgbnz5/channel24_bd.png" group-title="Three IPTV",CHANNEL 24 [BD]
 http://103.102.136.106:8080/cmcltv/channel24_th.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5d/Ekattor_TV_logo.png" group-title="Three  IPTV",EKATTOR TV HD [BD]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5d/Ekattor_TV_logo.png" group-title="Three IPTV",EKATTOR TV HD [BD]
 http://103.102.136.106:8080/cmcltv/ekator_th.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/k7z1dsec1jfjbkn/jamuna_tv_bd.png" group-title="Three  IPTV",JAMUNA TV [BD]
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/k7z1dsec1jfjbkn/jamuna_tv_bd.png" group-title="Three IPTV",JAMUNA TV [BD]
 http://103.102.136.106:8080/cmcltv/jamuna_th.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/bl983avhouqd47c/news_24_bd.png" group-title="Three  IPTV",NEWS 24 HD [BD]
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/bl983avhouqd47c/news_24_bd.png" group-title="Three IPTV",NEWS 24 HD [BD]
 http://103.102.136.106:8080/cmcltv/news24-th.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/lj9s11dqzleti2a/dbc_news_bd.png" group-title="Three  IPTV",DBC NEWS HD [BD]
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/lj9s11dqzleti2a/dbc_news_bd.png" group-title="Three IPTV",DBC NEWS HD [BD]
 http://103.102.136.106:8080/cmcltv/dbcnews_th.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/zz46867ifm3fm6i/duronto-tv-bd.png" group-title="Three  IPTV",DURONTO TV [BD]
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/zz46867ifm3fm6i/duronto-tv-bd.png" group-title="Three IPTV",DURONTO TV [BD]
 http://103.102.136.106:8080/cmcltv/duronto_th.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Gaan_Three  IPTV.png/220px-Gaan_Three  IPTV.png" group-title="Three  IPTV",Gaan Three  IPTV [BD]
-http://103.102.136.106:8080/cmcltv/gaanThree  IPTV_th.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/8z5yuaoyryedp6l/ZB.jpg" group-title="Three  IPTV",Zee Three  IPTV SD [IN] (2)
-http://103.102.136.106:8080/cmcltv/tcm_zeeThree  IPTVcm.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/44vdhjj6fja02co/CBHD.jpg" group-title="Three  IPTV",Colors Three  IPTV SD
-http://103.102.136.106:8080/cmcltv/tcm_colorsThree  IPTVcm.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/wa8wof22bn71puv/sony_aath_in.png" group-title="Three  IPTV",Sony Aath [IN] (1)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Gaan_Three IPTV.png/220px-Gaan_Three IPTV.png" group-title="Three IPTV",Gaan Three IPTV [BD]
+http://103.102.136.106:8080/cmcltv/gaanThree IPTV_th.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/8z5yuaoyryedp6l/ZB.jpg" group-title="Three IPTV",Zee Three IPTV SD [IN] (2)
+http://103.102.136.106:8080/cmcltv/tcm_zeeThree IPTVcm.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/44vdhjj6fja02co/CBHD.jpg" group-title="Three IPTV",Colors Three IPTV SD
+http://103.102.136.106:8080/cmcltv/tcm_colorsThree IPTVcm.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/wa8wof22bn71puv/sony_aath_in.png" group-title="Three IPTV",Sony Aath [IN] (1)
 http://103.102.136.106:8080/cmcltv/tcm_sonyaat.m3u8
-#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png" group-title="Three  IPTV",COLORS
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png" group-title="Three IPTV",COLORS
 http://103.102.136.106:8080/cmcltv/tcm_colors.m3u8
-#EXTINF:-1 tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SET_india_HD.png" group-title="Three  IPTV",SONY
+#EXTINF:-1 tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SET_india_HD.png" group-title="Three IPTV",SONY
 http://103.102.136.106:8080/cmcltv/tcm_sonyhdcm.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/58/Sonymax.jpg" group-title="Three  IPTV",SONY Max
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/58/Sonymax.jpg" group-title="Three IPTV",SONY Max
 http://103.102.136.106:8080/cmcltv/tcm_sonymax.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d5/Zee_Cinema_New_Logo.png" group-title="Three  IPTV",Zee Cinema
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d5/Zee_Cinema_New_Logo.png" group-title="Three IPTV",Zee Cinema
 http://103.102.136.106:8080/cmcltv/tcm_zeecinema.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ed/Logo_of_Indian_television_channel_%26Pictures.jpg" group-title="Three  IPTV",And Pictures
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ed/Logo_of_Indian_television_channel_%26Pictures.jpg" group-title="Three IPTV",And Pictures
 http://103.102.136.106:8080/cmcltv/tcm_&pictures.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UxBVq6Z.png" group-title="Three  IPTV",BBC News
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UxBVq6Z.png" group-title="Three IPTV",BBC News
 http://103.102.136.106:8080/cmcltv/tcm_bbc.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTYv63NeTuzF6JQ2e2JnQVpWpcF3c_PtO0-ymSRtcGGaefvMkeq&usqp=CAU" group-title="Three  IPTV",Al Jazeera
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTYv63NeTuzF6JQ2e2JnQVpWpcF3c_PtO0-ymSRtcGGaefvMkeq&usqp=CAU" group-title="Three IPTV",Al Jazeera
 http://103.102.136.106:8080/cmcltv/al-jazeera.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSU1ws4_gATfoOPflkM8o6dpJSomQ_9IO4LRKXiNo5IxJbSuFf4&usqp=CAU" group-title="Three  IPTV",CNN News
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSU1ws4_gATfoOPflkM8o6dpJSomQ_9IO4LRKXiNo5IxJbSuFf4&usqp=CAU" group-title="Three IPTV",CNN News
 http://103.102.136.106:8080/cmcltv/tcm_cnnnews.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRGIMKZny9iOwyHjXWYk6r6sCCq6UMW2rZGUg&usqp=CAU" group-title="Three  IPTV",Live Three  IPTV
-http://103.102.136.106:8080/cmcltv/liveThree  IPTV.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRGIMKZny9iOwyHjXWYk6r6sCCq6UMW2rZGUg&usqp=CAU" group-title="Three  IPTV",Live Three  IPTV 2
-http://103.102.136.106:8080/cmcltv/liveThree  IPTV-2.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRGIMKZny9iOwyHjXWYk6r6sCCq6UMW2rZGUg&usqp=CAU" group-title="Three  IPTV",Live Three  IPTV 3
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRGIMKZny9iOwyHjXWYk6r6sCCq6UMW2rZGUg&usqp=CAU" group-title="Three IPTV",Live Three IPTV
+http://103.102.136.106:8080/cmcltv/liveThree IPTV.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRGIMKZny9iOwyHjXWYk6r6sCCq6UMW2rZGUg&usqp=CAU" group-title="Three IPTV",Live Three IPTV 2
+http://103.102.136.106:8080/cmcltv/liveThree IPTV-2.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRGIMKZny9iOwyHjXWYk6r6sCCq6UMW2rZGUg&usqp=CAU" group-title="Three IPTV",Live Three IPTV 3
 http://103.102.136.106:8080/cmcltv/tcm_live3.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRGIMKZny9iOwyHjXWYk6r6sCCq6UMW2rZGUg&usqp=CAU" group-title="Three  IPTV",Live Three  IPTV 4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRGIMKZny9iOwyHjXWYk6r6sCCq6UMW2rZGUg&usqp=CAU" group-title="Three IPTV",Live Three IPTV 4
 http://103.102.136.106:8080/cmcltv/tcm_live4.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSNVGhs7QhbNaKPnV8CB3v-AWYPXm0Ogk67mx__hKnLLrEddb-y&usqp=CAU" group-title="Three  IPTV",Star Three  IPTV 1
-http://103.102.136.106:8080/cmcltv/tcm_StarThree  IPTV1cm.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSNVGhs7QhbNaKPnV8CB3v-AWYPXm0Ogk67mx__hKnLLrEddb-y&usqp=CAU" group-title="Three  IPTV",Sony Ten 1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSNVGhs7QhbNaKPnV8CB3v-AWYPXm0Ogk67mx__hKnLLrEddb-y&usqp=CAU" group-title="Three IPTV",Star Three IPTV 1
+http://103.102.136.106:8080/cmcltv/tcm_StarThree IPTV1cm.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSNVGhs7QhbNaKPnV8CB3v-AWYPXm0Ogk67mx__hKnLLrEddb-y&usqp=CAU" group-title="Three IPTV",Sony Ten 1
 http://103.102.136.106:8080/cmcltv/tcm_ten1.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQBTnEK5BWeUD2NioqBxKSXvBrS2hOvgtATkw&usqp=CAU" group-title="Three  IPTV",Sony Ten 2
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQBTnEK5BWeUD2NioqBxKSXvBrS2hOvgtATkw&usqp=CAU" group-title="Three IPTV",Sony Ten 2
 http://103.102.136.106:8080/cmcltv/tcm_ten2.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSl1Yq3bZ22fNuVU2Mv6QoJ3oWXL8MuIFWeSRFvaJaS7PkODkoe&usqp=CAU" group-title="Three  IPTV",Sony Ten 3
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSl1Yq3bZ22fNuVU2Mv6QoJ3oWXL8MuIFWeSRFvaJaS7PkODkoe&usqp=CAU" group-title="Three IPTV",Sony Ten 3
 http://103.102.136.106:8080/cmcltv/tcm_ten3.m3u8
 
 
 
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/40yvi62wy59gu3r/sangsad_tv_bd.png" group-title="Three  IPTV",JAGO_Sangsad TV [BD]
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/40yvi62wy59gu3r/sangsad_tv_bd.png" group-title="Three IPTV",JAGO_Sangsad TV [BD]
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/songsodtv-world.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/ynmbf1f9g2pu3y5/btv_world.png" group-title="Three  IPTV",JAGO_BTV WORLD [BD]
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/ynmbf1f9g2pu3y5/btv_world.png" group-title="Three IPTV",JAGO_BTV WORLD [BD]
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/btvbd-office-sg.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZJra7BS.jpg" group-title="Three  IPTV",JAGO_BTV CTG [BD]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZJra7BS.jpg" group-title="Three IPTV",JAGO_BTV CTG [BD]
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/btvnational-ctg.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/a17x59hbhvzf9it/atn_Three  IPTV.png" group-title="Three  IPTV",JAGO_ATN Three  IPTV [BD]
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/a17x59hbhvzf9it/atn_Three IPTV.png" group-title="Three IPTV",JAGO_ATN Three IPTV [BD]
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnbd-8-org.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/ul1hoiovemyyhp8/channel_i.png" group-title="Three  IPTV",JAGO_CHANNEL I HD [BD]
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/ul1hoiovemyyhp8/channel_i.png" group-title="Three IPTV",JAGO_CHANNEL I HD [BD]
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channeli-8-org.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/uordrcep05gvxr3/rtv_bd.png" group-title="Three  IPTV",JAGO_RTV HD [BD]
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/uordrcep05gvxr3/rtv_bd.png" group-title="Three IPTV",JAGO_RTV HD [BD]
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/rtv-sg.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/xolazzofexo6ub8/boishakhi.png" group-title="Three  IPTV",JAGO_BOISHAKHI TV [BD]
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/xolazzofexo6ub8/boishakhi.png" group-title="Three IPTV",JAGO_BOISHAKHI TV [BD]
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/boishakhitv-org.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/qx0fxyv7rdx2uwi/Three  IPTV_vision.png" group-title="Three  IPTV",JAGO_Three  IPTV VISION [BD]
-https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/Three  IPTVv000.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/jjr5835pbth49tm/my_tv_bd.png" group-title="Three  IPTV",JAGO_MY TV HD [BD]
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/qx0fxyv7rdx2uwi/Three IPTV_vision.png" group-title="Three IPTV",JAGO_Three IPTV VISION [BD]
+https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/Three IPTVv000.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/jjr5835pbth49tm/my_tv_bd.png" group-title="Three IPTV",JAGO_MY TV HD [BD]
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mytv-up-off.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/189fwepu9ab32gw/channel9_bd.png" group-title="Three  IPTV",JAGO_CHANNEL 9 HD [BD]
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/189fwepu9ab32gw/channel9_bd.png" group-title="Three IPTV",JAGO_CHANNEL 9 HD [BD]
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channel9hd.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/avuaf3stbx17d41/asian_tv_bd.png" group-title="Three  IPTV",JAGO_ASIAN TV HD [BD]
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/avuaf3stbx17d41/asian_tv_bd.png" group-title="Three IPTV",JAGO_ASIAN TV HD [BD]
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/asian-test-sample-ok-d.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/qpe0m526qc1tral/sa_tv_bd.png" group-title="Three  IPTV",JAGO_SA TV HD [BD]
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/qpe0m526qc1tral/sa_tv_bd.png" group-title="Three IPTV",JAGO_SA TV HD [BD]
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/satvoff5666.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/z9ca0b0m8zo4f4b/Three  IPTV-tv-bd.png" group-title="Three  IPTV",JAGO_Three  IPTV TV HD [BD]
-https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/Three  IPTVtvhd.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/4ldi1dp09s8o6bm/atn_news_bd.png" group-title="Three  IPTV",JAGO_ATN NEWS [BD]
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/z9ca0b0m8zo4f4b/Three IPTV-tv-bd.png" group-title="Three IPTV",JAGO_Three IPTV TV HD [BD]
+https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/Three IPTVtvhd.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/4ldi1dp09s8o6bm/atn_news_bd.png" group-title="Three IPTV",JAGO_ATN NEWS [BD]
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnws-sg.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/7xwwb8hetz3w8rp/independent_tv.png" group-title="Three  IPTV",JAGO_INDEPENDENT TV [BD]
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/7xwwb8hetz3w8rp/independent_tv.png" group-title="Three IPTV",JAGO_INDEPENDENT TV [BD]
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/independent-8-org.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/leielj83em5kg7h/somoy_news.png" group-title="Three  IPTV",JAGO_SOMOY TV [BD]
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/leielj83em5kg7h/somoy_news.png" group-title="Three IPTV",JAGO_SOMOY TV [BD]
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/somoyt000011226615544544.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/puf12xv5flgbnz5/channel24_bd.png" group-title="Three  IPTV",JAGO_CHANNEL 24 [BD]
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/puf12xv5flgbnz5/channel24_bd.png" group-title="Three IPTV",JAGO_CHANNEL 24 [BD]
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channel24-sg-e8e.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/k7z1dsec1jfjbkn/jamuna_tv_bd.png" group-title="Three  IPTV",JAGO_JAMUNA TV [BD]
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/k7z1dsec1jfjbkn/jamuna_tv_bd.png" group-title="Three IPTV",JAGO_JAMUNA TV [BD]
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/jamuna-test-sample-ok.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/bl983avhouqd47c/news_24_bd.png" group-title="Three  IPTV",JAGO_NEWS 24 HD [BD]
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/bl983avhouqd47c/news_24_bd.png" group-title="Three IPTV",JAGO_NEWS 24 HD [BD]
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/news24local.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/lj9s11dqzleti2a/dbc_news_bd.png" group-title="Three  IPTV",JAGO_DBC NEWS HD [BD]
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/lj9s11dqzleti2a/dbc_news_bd.png" group-title="Three IPTV",JAGO_DBC NEWS HD [BD]
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/dbcnews.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/hsd251vq24vfr0j/bijoy_tv.png" group-title="Three  IPTV",JAGO_BIJOY TV HD [BD]
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/hsd251vq24vfr0j/bijoy_tv.png" group-title="Three IPTV",JAGO_BIJOY TV HD [BD]
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/bijoy00.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/31k6q9ajx36he7i/ananda-tv-bd.png" group-title="Three  IPTV",JAGO_ANANDA TV HD [BD]
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/31k6q9ajx36he7i/ananda-tv-bd.png" group-title="Three IPTV",JAGO_ANANDA TV HD [BD]
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/anandatv.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/d48uZCk.png" group-title="Three  IPTV",JAGO_CHANNEL S [UK] [BD]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/d48uZCk.png" group-title="Three IPTV",JAGO_CHANNEL S [UK] [BD]
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/chsukoff.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AntJjP7.jpg" group-title="Three  IPTV",JAGO_MY CINEMA IPTV [BD]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AntJjP7.jpg" group-title="Three IPTV",JAGO_MY CINEMA IPTV [BD]
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mycinema-up2.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0rPdpW9/MB-TV.jpg" group-title="Three  IPTV",JAGO_Movie Three  IPTV TV [BD]
-https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/movieThree  IPTVlink2.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2020/08/Biswa-Three  IPTV-24.png" group-title="Three  IPTV",JAGO_Biswa Three  IPTV 24 TV [BD]
-https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/biswaThree  IPTVtv.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2020/06/alponatv.jpg" group-title="Three  IPTV",JAGO_Alpona IPTV [BD]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0rPdpW9/MB-TV.jpg" group-title="Three IPTV",JAGO_Movie Three IPTV TV [BD]
+https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/movieThree IPTVlink2.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2020/08/Biswa-Three IPTV-24.png" group-title="Three IPTV",JAGO_Biswa Three IPTV 24 TV [BD]
+https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/biswaThree IPTVtv.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2020/06/alponatv.jpg" group-title="Three IPTV",JAGO_Alpona IPTV [BD]
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/alponatv.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2016/02/Three  IPTV21tv.jpg?x91288" group-title="Three  IPTV",JAGO_Three  IPTV 21 IPTV [BD]
-https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/Three  IPTV21tv000889956-sg.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2020/05/Cumilla24.jpeg" group-title="Three  IPTV",JAGO_Cumilla 24 IPTV [BD]
+#EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2016/02/Three IPTV21tv.jpg?x91288" group-title="Three IPTV",JAGO_Three IPTV 21 IPTV [BD]
+https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/Three IPTV21tv000889956-sg.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2020/05/Cumilla24.jpeg" group-title="Three IPTV",JAGO_Cumilla 24 IPTV [BD]
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/cumilla24.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lGoxDN6.jpg" group-title="Three  IPTV",JAGO_Deshe Bideshe [BD]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lGoxDN6.jpg" group-title="Three IPTV",JAGO_Deshe Bideshe [BD]
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/deshebideshe.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LqQp9LH.jpg" group-title="Three  IPTV",JAGO_Nan IPTV [BD]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LqQp9LH.jpg" group-title="Three IPTV",JAGO_Nan IPTV [BD]
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/nantv.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="http://joyjatra.tv/front_end_assets/images/logo.png" group-title="Three  IPTV",JAGO_Joy Jatra TV
+#EXTINF:-1 tvg-logo="http://joyjatra.tv/front_end_assets/images/logo.png" group-title="Three IPTV",JAGO_Joy Jatra TV
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/joyjatratv.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wQVJWSk/Varendra-TV.jpg" group-title="Three  IPTV",JAGO_Varendra TV [BD]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wQVJWSk/Varendra-TV.jpg" group-title="Three IPTV",JAGO_Varendra TV [BD]
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/varendratv.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tBZhq2c/Roal-TV.jpg" group-title="Three  IPTV",JAGO_Royal TV [BD]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tBZhq2c/Roal-TV.jpg" group-title="Three IPTV",JAGO_Royal TV [BD]
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/royaltv.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qVy4UdD.jpg" group-title="Three  IPTV",JAGO_RANG IPTV [BD]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qVy4UdD.jpg" group-title="Three IPTV",JAGO_RANG IPTV [BD]
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/rangiptv.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2020/08/Voice-TV.jpg" group-title="Three  IPTV",JAGO_VOICE IPTV [BD]
+#EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2020/08/Voice-TV.jpg" group-title="Three IPTV",JAGO_VOICE IPTV [BD]
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/voicetv.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2018/04/live2web-logo-Converted.jpg?x91288" group-title="Three  IPTV",JAGO_LIVE2WEB IPTV [BD]
+#EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2018/04/live2web-logo-Converted.jpg?x91288" group-title="Three IPTV",JAGO_LIVE2WEB IPTV [BD]
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/live2web.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kdez6Hz.jpg" group-title="Three  IPTV",JAGO_PAN VISION IPTV [BD]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kdez6Hz.jpg" group-title="Three IPTV",JAGO_PAN VISION IPTV [BD]
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/panvisiontvs.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CIgayHY.jpg" group-title="Three  IPTV",JAGO_NOKSHI IPTV [BD]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CIgayHY.jpg" group-title="Three IPTV",JAGO_NOKSHI IPTV [BD]
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/nakshitv.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7YYHYiW.png" group-title="Three  IPTV",JAGO_Jagoroni IPTV [BD]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7YYHYiW.png" group-title="Three IPTV",JAGO_Jagoroni IPTV [BD]
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/jagoronitv.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Brv8XBm/NRB-TV.png" group-title="Three  IPTV",JAGO_NRB IPTV [BD]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Brv8XBm/NRB-TV.png" group-title="Three IPTV",JAGO_NRB IPTV [BD]
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/nrb-eu.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2019/05/binodonThree  IPTVtv.jpg" group-title="Three  IPTV",JAGO_Binodon Three  IPTV IPTV [BD]
-https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/bindonThree  IPTV.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/6lrf7qk61nl98zw/Channel-H.jpg" group-title="Three  IPTV",Channel H IPTV [BD]
+#EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2019/05/binodonThree IPTVtv.jpg" group-title="Three IPTV",JAGO_Binodon Three IPTV IPTV [BD]
+https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/bindonThree IPTV.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/6lrf7qk61nl98zw/Channel-H.jpg" group-title="Three IPTV",Channel H IPTV [BD]
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channelhtv.stream/live-orgin/channelhtv.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/ksaxffmztsbi0hz/City-TV.jpg" group-title="Three  IPTV",City IPTV [BD]
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/ksaxffmztsbi0hz/City-TV.jpg" group-title="Three IPTV",City IPTV [BD]
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/citytv.stream/live-orgin/citytv.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7Q3VtlF.png" group-title="Three  IPTV",JAGO_ATN Islam [BD]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7Q3VtlF.png" group-title="Three IPTV",JAGO_ATN Islam [BD]
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnislamictv.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/U8XrjmP.png" group-title="Three  IPTV",JAGO_TITAS Three  IPTV [BD]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/U8XrjmP.png" group-title="Three IPTV",JAGO_TITAS Three IPTV [BD]
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/titash.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oMXI9Dv.png" group-title="Three  IPTV",JAGO_GAAN Three  IPTV HD [BD]
-https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/gaanThree  IPTV-8-orgd.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/ZKFyzan2-xo/maxresdefault_live.jpg" group-title="Three  IPTV",JAGO_ATN Music [BD]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oMXI9Dv.png" group-title="Three IPTV",JAGO_GAAN Three IPTV HD [BD]
+https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/gaanThree IPTV-8-orgd.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/ZKFyzan2-xo/maxresdefault_live.jpg" group-title="Three IPTV",JAGO_ATN Music [BD]
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnmusic.stream/chunks.m3u8
 
 
 
 
-#EXTINF:-1 group-title="Three  IPTV", ATN Three  IPTV
-http://10.16.100.203:8082/Three  IPTV/atnThree  IPTV.m3u8
-#EXTINF:-1 group-title="Three  IPTV", Three  IPTV TV
-http://10.16.100.203:8082/Three  IPTV/Three  IPTVtv_720.m3u8
-#EXTINF:-1 group-title="Three  IPTV", Three  IPTV VISION
-http://10.16.100.203:8082/Three  IPTV/vision_Three  IPTV.m3u8
-#EXTINF:-1 group-title="Three  IPTV", BIJOY TV
-http://10.16.100.203:8082/Three  IPTV/bijoytv.m3u8
-#EXTINF:-1 group-title="Three  IPTV", BOISHAKHI Three  IPTV
+#EXTINF:-1 group-title="Three IPTV", ATN Three IPTV
+http://10.16.100.203:8082/Three IPTV/atnThree IPTV.m3u8
+#EXTINF:-1 group-title="Three IPTV", Three IPTV TV
+http://10.16.100.203:8082/Three IPTV/Three IPTVtv_720.m3u8
+#EXTINF:-1 group-title="Three IPTV", Three IPTV VISION
+http://10.16.100.203:8082/Three IPTV/vision_Three IPTV.m3u8
+#EXTINF:-1 group-title="Three IPTV", BIJOY TV
+http://10.16.100.203:8082/Three IPTV/bijoytv.m3u8
+#EXTINF:-1 group-title="Three IPTV", BOISHAKHI Three IPTV
 http://10.16.100.205/hls/boishakhi_720.m3u8
-#EXTINF:-1 group-title="Three  IPTV", CHANNEL I
-http://10.16.100.203:8082/Three  IPTV/i_Channel.m3u8
-#EXTINF:-1 group-title="Three  IPTV", CHANNEL 9
-http://10.16.100.203:8082/Three  IPTV/CHANNEL9.m3u8
-#EXTINF:-1 group-title="Three  IPTV", DBC NEWS
-http://10.16.100.203:8082/Three  IPTV/dbcnews.m3u8
-#EXTINF:-1 group-title="Three  IPTV", DESH TV
+#EXTINF:-1 group-title="Three IPTV", CHANNEL I
+http://10.16.100.203:8082/Three IPTV/i_Channel.m3u8
+#EXTINF:-1 group-title="Three IPTV", CHANNEL 9
+http://10.16.100.203:8082/Three IPTV/CHANNEL9.m3u8
+#EXTINF:-1 group-title="Three IPTV", DBC NEWS
+http://10.16.100.203:8082/Three IPTV/dbcnews.m3u8
+#EXTINF:-1 group-title="Three IPTV", DESH TV
 http://10.16.100.205/hls/desh_tv_720.m3u8
-#EXTINF:-1 group-title="Three  IPTV", DIGI Three  IPTV 24
-http://10.16.100.203:8082/Three  IPTV/digiThree  IPTV24.m3u8
-#EXTINF:-1 group-title="Three  IPTV", EKATTOR TV
+#EXTINF:-1 group-title="Three IPTV", DIGI Three IPTV 24
+http://10.16.100.203:8082/Three IPTV/digiThree IPTV24.m3u8
+#EXTINF:-1 group-title="Three IPTV", EKATTOR TV
 http://10.16.100.205/hls/ekattor_hd_720.m3u8
-#EXTINF:-1 group-title="Three  IPTV", EKUSHAY ETV
-http://10.16.100.203:8082/Three  IPTV/ekusheytv.m3u8
-#EXTINF:-1 group-title="Three  IPTV", GTV
-http://10.16.100.203:8082/Three  IPTV/gtv.m3u8
-#EXTINF:-1 group-title="Three  IPTV", INDEPENDENT NEWS
-http://10.16.100.203:8082/Three  IPTV/news_independent.m3u8
-#EXTINF:-1 group-title="Three  IPTV", JAMUNA TV
-http://10.16.100.203:8082/Three  IPTV/jamuna_720.m3u8
-#EXTINF:-1 group-title="Three  IPTV", MOHONA TV
+#EXTINF:-1 group-title="Three IPTV", EKUSHAY ETV
+http://10.16.100.203:8082/Three IPTV/ekusheytv.m3u8
+#EXTINF:-1 group-title="Three IPTV", GTV
+http://10.16.100.203:8082/Three IPTV/gtv.m3u8
+#EXTINF:-1 group-title="Three IPTV", INDEPENDENT NEWS
+http://10.16.100.203:8082/Three IPTV/news_independent.m3u8
+#EXTINF:-1 group-title="Three IPTV", JAMUNA TV
+http://10.16.100.203:8082/Three IPTV/jamuna_720.m3u8
+#EXTINF:-1 group-title="Three IPTV", MOHONA TV
 http://10.16.100.205/hls/mohona_tv_720.m3u8
-#EXTINF:-1 group-title="Three  IPTV", MY TV
+#EXTINF:-1 group-title="Three IPTV", MY TV
 http://10.16.100.205/hls/my_tv_720.m3u8
-#EXTINF:-1 group-title="Three  IPTV", NTV
+#EXTINF:-1 group-title="Three IPTV", NTV
 http://10.16.100.205/hls/ntv_b_720.m3u8
-#EXTINF:-1 group-title="Three  IPTV", NEWS 24
-http://10.16.100.203:8082/Three  IPTV/24newshd_720.m3u8
-#EXTINF:-1 group-title="Three  IPTV", RTV
-http://10.16.100.203:8082/Three  IPTV/TV_R.m3u8
-#EXTINF:-1 group-title="Three  IPTV", SOMOY TV
+#EXTINF:-1 group-title="Three IPTV", NEWS 24
+http://10.16.100.203:8082/Three IPTV/24newshd_720.m3u8
+#EXTINF:-1 group-title="Three IPTV", RTV
+http://10.16.100.203:8082/Three IPTV/TV_R.m3u8
+#EXTINF:-1 group-title="Three IPTV", SOMOY TV
 http://10.16.100.205/hls/somoy_tv.m3u8
-#EXTINF:-1 group-title="Three  IPTV", DURONTO TV
-http://10.16.100.201/Three  IPTV/duronto_720_cm.m3u8
-#EXTINF:-1 group-title="Three  IPTV", &TV
+#EXTINF:-1 group-title="Three IPTV", DURONTO TV
+http://10.16.100.201/Three IPTV/duronto_720_cm.m3u8
+#EXTINF:-1 group-title="Three IPTV", &TV
 http://10.16.100.204/hls/&tv.m3u8
-#EXTINF:-1 group-title="Three  IPTV", COLORS TV
+#EXTINF:-1 group-title="Three IPTV", COLORS TV
 http://10.16.100.204/hls/colors.m3u8
-#EXTINF:-1 group-title="Three  IPTV", SONY TV
+#EXTINF:-1 group-title="Three IPTV", SONY TV
 http://10.16.100.204/hls/sony_tv_720.m3u8
-#EXTINF:-1 group-title="Three  IPTV", STAR PLUS
+#EXTINF:-1 group-title="Three IPTV", STAR PLUS
 http://10.16.100.204/hls/star_plus.m3u8
-#EXTINF:-1 group-title="Three  IPTV", ZEE TV
+#EXTINF:-1 group-title="Three IPTV", ZEE TV
 http://10.16.100.204/hls/Zee_TV_720.m3u8
-#EXTINF:-1 group-title="Three  IPTV", AKAASH AATH
+#EXTINF:-1 group-title="Three IPTV", AKAASH AATH
 http://10.16.100.204/hls/akash_aath_720.m3u8
-#EXTINF:-1 group-title="Three  IPTV", COLORS Three  IPTV
-http://10.16.100.203:8082/Three  IPTV/colorsThree  IPTV.m3u8
-#EXTINF:-1 group-title="Three  IPTV", SONY AATH
+#EXTINF:-1 group-title="Three IPTV", COLORS Three IPTV
+http://10.16.100.203:8082/Three IPTV/colorsThree IPTV.m3u8
+#EXTINF:-1 group-title="Three IPTV", SONY AATH
 http://10.16.100.204/hls/sony_aath.m3u8
-#EXTINF:-1 group-title="Three  IPTV", STAR JALSWA
+#EXTINF:-1 group-title="Three IPTV", STAR JALSWA
 http://10.16.100.204/hls/star_jalsha.m3u8
-#EXTINF:-1 group-title="Three  IPTV", ZEE Three  IPTV
-http://10.16.100.204/hls/zee_Three  IPTV_720.m3u8
-#EXTINF:-1 group-title="Three  IPTV", & Picture
+#EXTINF:-1 group-title="Three IPTV", ZEE Three IPTV
+http://10.16.100.204/hls/zee_Three IPTV_720.m3u8
+#EXTINF:-1 group-title="Three IPTV", & Picture
 http://10.16.100.204/hls/andpicture_720.m3u8
-#EXTINF:-1 group-title="Three  IPTV", WOW CINEMA
-http://10.16.100.201/Three  IPTV/wow_cinema.m3u8
-#EXTINF:-1 group-title="Three  IPTV", 9XM MUSIC
+#EXTINF:-1 group-title="Three IPTV", WOW CINEMA
+http://10.16.100.201/Three IPTV/wow_cinema.m3u8
+#EXTINF:-1 group-title="Three IPTV", 9XM MUSIC
 http://10.16.100.204/hls/9xm_720.m3u8
-#EXTINF:-1 group-title="Three  IPTV", DHOOM MUSIC
-http://10.16.100.201/Three  IPTV/dhoom_music.m3u8
-#EXTINF:-1 group-title="Three  IPTV", GAAN Three  IPTV
-http://10.16.100.205/hls/gaanThree  IPTV_ctg.m3u8
-#EXTINF:-1 group-title="Three  IPTV", SANGEET Three  IPTV
-http://10.16.100.207:8082/Three  IPTV/sangeet_Three  IPTV.m3u8
-#EXTINF:-1 group-title="Three  IPTV", PEACE TV
-http://10.16.100.207:8082/Three  IPTV/peacetv.m3u8
-#EXTINF:-1 group-title="Three  IPTV", QURAN TV
-http://10.16.100.207:8082/Three  IPTV/qurantv.m3u8
-#EXTINF:-1 group-title="Three  IPTV", SUNNAH TV
-http://10.16.100.207:8082/Three  IPTV/sunnahtv.m3u8
-#EXTINF:-1 group-title="Three  IPTV", SONY TEN 1
-http://10.16.100.207:8082/Three  IPTV/ten1_720.m3u8
-#EXTINF:-1 group-title="Three  IPTV", STAR Three  IPTV 2
-http://10.16.100.207:8082/Three  IPTV/starThree  IPTV2.m3u8
-#EXTINF:-1 group-title="Three  IPTV", STAR Three  IPTV SELECT 1
-http://10.16.100.207:8082/Three  IPTV/starThree  IPTV_select1.m3u8
-#EXTINF:-1 group-title="Three  IPTV", STAR Three  IPTV SELECT 2
-http://10.16.100.207:8082/Three  IPTV/ssselect2.m3u8
+#EXTINF:-1 group-title="Three IPTV", DHOOM MUSIC
+http://10.16.100.201/Three IPTV/dhoom_music.m3u8
+#EXTINF:-1 group-title="Three IPTV", GAAN Three IPTV
+http://10.16.100.205/hls/gaanThree IPTV_ctg.m3u8
+#EXTINF:-1 group-title="Three IPTV", SANGEET Three IPTV
+http://10.16.100.207:8082/Three IPTV/sangeet_Three IPTV.m3u8
+#EXTINF:-1 group-title="Three IPTV", PEACE TV
+http://10.16.100.207:8082/Three IPTV/peacetv.m3u8
+#EXTINF:-1 group-title="Three IPTV", QURAN TV
+http://10.16.100.207:8082/Three IPTV/qurantv.m3u8
+#EXTINF:-1 group-title="Three IPTV", SUNNAH TV
+http://10.16.100.207:8082/Three IPTV/sunnahtv.m3u8
+#EXTINF:-1 group-title="Three IPTV", SONY TEN 1
+http://10.16.100.207:8082/Three IPTV/ten1_720.m3u8
+#EXTINF:-1 group-title="Three IPTV", STAR Three IPTV 2
+http://10.16.100.207:8082/Three IPTV/starThree IPTV2.m3u8
+#EXTINF:-1 group-title="Three IPTV", STAR Three IPTV SELECT 1
+http://10.16.100.207:8082/Three IPTV/starThree IPTV_select1.m3u8
+#EXTINF:-1 group-title="Three IPTV", STAR Three IPTV SELECT 2
+http://10.16.100.207:8082/Three IPTV/ssselect2.m3u8
 
 
 
 
 
-#EXTINF:-1 tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/Three  IPTV.png" group-title="Three  IPTV",FTP_Gazi TV
-http://otv.Three  IPTV.net/streams/108/index.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/Three  IPTV.png" group-title="Three  IPTV",FTP_Channel 9
-http://otv.Three  IPTV.net/streams/102/index.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/Three  IPTV.png" group-title="Three  IPTV",FTP_Deepto
-http://otv.Three  IPTV.net/streams/103/index.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/Three  IPTV.png" group-title="Three  IPTV",FTP_Ekattor
-http://otv.Three  IPTV.net/streams/128/index.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/Three  IPTV.png" group-title="Three  IPTV",FTP_Channel I HD
-http://otv.Three  IPTV.net/streams/126/index.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/Three  IPTV.png" group-title="Three  IPTV",FTP_Sony Aath
-http://otv.Three  IPTV.net/streams/127/index.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/Three  IPTV.png" group-title="Three  IPTV",FTP_Zee Three  IPTV
-http://otv.Three  IPTV.net/streams/107/index.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/Three  IPTV.png" group-title="Three  IPTV",FTP_Sony Max
-http://otv.Three  IPTV.net/streams/109/index.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/Three  IPTV.png" group-title="Three  IPTV",FTP_Star Three  IPTV 1 HD
-http://otv.Three  IPTV.net/streams/104/index.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/Three  IPTV.png" group-title="Three  IPTV",FTP_Star Three  IPTV 2 HD
-http://otv.Three  IPTV.net/streams/116/index.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/Three  IPTV.png" group-title="Three  IPTV",FTP_Star Three  IPTV Select 1 HD
-http://otv.Three  IPTV.net/streams/113/index.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/Three  IPTV.png" group-title="Three  IPTV",FTP_Star Three  IPTV Select 2 HD
-http://otv.Three  IPTV.net/streams/114/index.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/Three  IPTV.png" group-title="Three  IPTV",FTP_Sony Ten1
-http://otv.Three  IPTV.net/streams/105/index.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/Three  IPTV.png" group-title="Three  IPTV",FTP_Sony Ten 2
-http://otv.Three  IPTV.net/streams/112/index.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/Three  IPTV.png" group-title="Three  IPTV",FTP_Sont Six
-http://otv.Three  IPTV.net/streams/106/index.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/Three  IPTV.png" group-title="Three  IPTV",FTP_Jalsha Movies
-http://otv.Three  IPTV.net/streams/115/index.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/Three  IPTV.png" group-title="Three  IPTV",FTP_17
-http://otv.Three  IPTV.net/streams/117/index.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/Three  IPTV.png" group-title="Three  IPTV",FTP_18
-http://otv.Three  IPTV.net/streams/118/index.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/Three  IPTV.png" group-title="Three  IPTV",FTP_Duronto TV
-http://otv.Three  IPTV.net/streams/119/index.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/Three  IPTV.png" group-title="Three  IPTV",FTP_Disney
-http://otv.Three  IPTV.net/streams/122/index.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/Three  IPTV.png" group-title="Three  IPTV",FTP_CN
-http://otv.Three  IPTV.net/streams/123/index.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/Three  IPTV.png" group-title="Three  IPTV",FTP_UTV Action
-http://otv.Three  IPTV.net/streams/124/index.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/Three  IPTV.png" group-title="Three  IPTV",FTP_HBO
-http://otv.Three  IPTV.net/streams/111/index.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/Three  IPTV.png" group-title="Three  IPTV",FTP_Star Movies HD
-http://otv.Three  IPTV.net/streams/125/index.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/Three  IPTV.png" group-title="Three  IPTV",FTP_20
-http://otv.Three  IPTV.net/streams/120/index.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/Three  IPTV.png" group-title="Three  IPTV",FTP_National Geographic HD
-http://otv.Three  IPTV.net/streams/110/index.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/Three  IPTV.png" group-title="Three  IPTV",FTP_Discovery
-http://otv.Three  IPTV.net/streams/121/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/Three IPTV.png" group-title="Three IPTV",FTP_Gazi TV
+http://otv.Three IPTV.net/streams/108/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/Three IPTV.png" group-title="Three IPTV",FTP_Channel 9
+http://otv.Three IPTV.net/streams/102/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/Three IPTV.png" group-title="Three IPTV",FTP_Deepto
+http://otv.Three IPTV.net/streams/103/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/Three IPTV.png" group-title="Three IPTV",FTP_Ekattor
+http://otv.Three IPTV.net/streams/128/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/Three IPTV.png" group-title="Three IPTV",FTP_Channel I HD
+http://otv.Three IPTV.net/streams/126/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/Three IPTV.png" group-title="Three IPTV",FTP_Sony Aath
+http://otv.Three IPTV.net/streams/127/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/Three IPTV.png" group-title="Three IPTV",FTP_Zee Three IPTV
+http://otv.Three IPTV.net/streams/107/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/Three IPTV.png" group-title="Three IPTV",FTP_Sony Max
+http://otv.Three IPTV.net/streams/109/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/Three IPTV.png" group-title="Three IPTV",FTP_Star Three IPTV 1 HD
+http://otv.Three IPTV.net/streams/104/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/Three IPTV.png" group-title="Three IPTV",FTP_Star Three IPTV 2 HD
+http://otv.Three IPTV.net/streams/116/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/Three IPTV.png" group-title="Three IPTV",FTP_Star Three IPTV Select 1 HD
+http://otv.Three IPTV.net/streams/113/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/Three IPTV.png" group-title="Three IPTV",FTP_Star Three IPTV Select 2 HD
+http://otv.Three IPTV.net/streams/114/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/Three IPTV.png" group-title="Three IPTV",FTP_Sony Ten1
+http://otv.Three IPTV.net/streams/105/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/Three IPTV.png" group-title="Three IPTV",FTP_Sony Ten 2
+http://otv.Three IPTV.net/streams/112/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/Three IPTV.png" group-title="Three IPTV",FTP_Sont Six
+http://otv.Three IPTV.net/streams/106/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/Three IPTV.png" group-title="Three IPTV",FTP_Jalsha Movies
+http://otv.Three IPTV.net/streams/115/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/Three IPTV.png" group-title="Three IPTV",FTP_17
+http://otv.Three IPTV.net/streams/117/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/Three IPTV.png" group-title="Three IPTV",FTP_18
+http://otv.Three IPTV.net/streams/118/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/Three IPTV.png" group-title="Three IPTV",FTP_Duronto TV
+http://otv.Three IPTV.net/streams/119/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/Three IPTV.png" group-title="Three IPTV",FTP_Disney
+http://otv.Three IPTV.net/streams/122/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/Three IPTV.png" group-title="Three IPTV",FTP_CN
+http://otv.Three IPTV.net/streams/123/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/Three IPTV.png" group-title="Three IPTV",FTP_UTV Action
+http://otv.Three IPTV.net/streams/124/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/Three IPTV.png" group-title="Three IPTV",FTP_HBO
+http://otv.Three IPTV.net/streams/111/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/Three IPTV.png" group-title="Three IPTV",FTP_Star Movies HD
+http://otv.Three IPTV.net/streams/125/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/Three IPTV.png" group-title="Three IPTV",FTP_20
+http://otv.Three IPTV.net/streams/120/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/Three IPTV.png" group-title="Three IPTV",FTP_National Geographic HD
+http://otv.Three IPTV.net/streams/110/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/Three IPTV.png" group-title="Three IPTV",FTP_Discovery
+http://otv.Three IPTV.net/streams/121/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/15/Sangsad_Television_Logo.jpg" group-title="Three  IPTV",Sangsad TV [BD]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/15/Sangsad_Television_Logo.jpg" group-title="Three IPTV",Sangsad TV [BD]
 https://tempe.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/songsodtv-world.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/BW.jpg" group-title="Three  IPTV",BTV WORLD [BD]
+#EXTINF:-1 tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/BW.jpg" group-title="Three IPTV",BTV WORLD [BD]
 https://tempe.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/btvbd-office-sg.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZJra7BS.jpg" group-title="Three  IPTV",BTV [CTG]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZJra7BS.jpg" group-title="Three IPTV",BTV [CTG]
 https://tempe.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/btvnational-ctg.stream/chunks.m3u8?@amarnettv.live
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATN_Three  IPTV.svg/240px-ATN_Three  IPTV.svg.png" group-title="Three  IPTV",ATN Three  IPTV [BD]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATN_Three IPTV.svg/240px-ATN_Three IPTV.svg.png" group-title="Three IPTV",ATN Three IPTV [BD]
 https://tempe.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnbd-8-org.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Channel-i.svg/384px-Channel-i.svg.png" group-title="Three  IPTV",CHANNEL I HD [BD]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Channel-i.svg/384px-Channel-i.svg.png" group-title="Three IPTV",CHANNEL I HD [BD]
 https://tempe.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channeli-8-org.stream/chunks.m3u8?@amarnettv.live
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e7/ETV.jpg" group-title="Three  IPTV",EKUSHEY TV [BD]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e7/ETV.jpg" group-title="Three IPTV",EKUSHEY TV [BD]
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Three  IPTVdesh%29_logo.svg/240px-NTV_%28Three  IPTVdesh%29_logo.svg.png" group-title="Three  IPTV",NTV [BD]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Three IPTVdesh%29_logo.svg/240px-NTV_%28Three IPTVdesh%29_logo.svg.png" group-title="Three IPTV",NTV [BD]
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/ntvuk00332211.stream/live-orgin/ntvuk00332211.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Rtv_Three  IPTVdesh.PNG/120px-Rtv_Three  IPTVdesh.PNG" group-title="Three  IPTV",RTV HD [BD]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Rtv_Three IPTVdesh.PNG/120px-Rtv_Three IPTVdesh.PNG" group-title="Three IPTV",RTV HD [BD]
 https://tempe.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/rtv-sg.stream/playlist.m3u8?@amarnettv.live
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c7/Boishakhi_TV_logo.svg/400px-Boishakhi_TV_logo.svg.png" group-title="Three  IPTV",BOISHAKHI TV [BD]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c7/Boishakhi_TV_logo.svg/400px-Boishakhi_TV_logo.svg.png" group-title="Three IPTV",BOISHAKHI TV [BD]
 https://tempe.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/boishakhitv-org.stream/chunks.m3u8?@amarnettv.live
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6d/Three  IPTVvision.PNG" group-title="Three  IPTV",Three  IPTV VISION [BD]
-https://tempe.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/Three  IPTVv000.stream/chunks.m3u8?@amarnettv.live
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/81/Desh_tv.png" group-title="Three  IPTV",DESH TV [BD]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6d/Three IPTVvision.PNG" group-title="Three IPTV",Three IPTV VISION [BD]
+https://tempe.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/Three IPTVv000.stream/chunks.m3u8?@amarnettv.live
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/81/Desh_tv.png" group-title="Three IPTV",DESH TV [BD]
 http://global.thunderbd.com/9/tracks-v1a1/mono.m3u8 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e3/My_TV_Logo.png" group-title="Three  IPTV",MY TV HD [BD]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e3/My_TV_Logo.png" group-title="Three IPTV",MY TV HD [BD]
 https://tempe.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mytv-up-off.stream/chunks.m3u8?@amarnettv.live 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Mohona_Logo.JPG/230px-Mohona_Logo.JPG" group-title="Three  IPTV",MOHONA TV [BD]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Mohona_Logo.JPG/230px-Mohona_Logo.JPG" group-title="Three IPTV",MOHONA TV [BD]
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/mohonatv00000223232244556633.stream/live-orgin/mohonatv00000223232244556633.stream/chunks.m3u8 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Maasranga_Television_Logo.jpg/180px-Maasranga_Television_Logo.jpg" group-title="Three  IPTV",MAASRANGA TV HD [BD]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Maasranga_Television_Logo.jpg/180px-Maasranga_Television_Logo.jpg" group-title="Three IPTV",MAASRANGA TV HD [BD]
 http://ctgiptv.kitv.live:1935/live/test/test1/1.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Channel9_bd.svg/520px-Channel9_bd.svg.png" group-title="Three  IPTV",CHANNEL 9 HD [BD]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Channel9_bd.svg/520px-Channel9_bd.svg.png" group-title="Three IPTV",CHANNEL 9 HD [BD]
 https://tempe.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channel9hd.stream/chunks.m3u8?@amarnettv.live
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/20/GTVThree  IPTVdeshLogo.png/220px-GTVThree  IPTVdeshLogo.png" group-title="Three  IPTV",GAZI TV HD [BD]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/20/GTVThree IPTVdeshLogo.png/220px-GTVThree IPTVdeshLogo.png" group-title="Three IPTV",GAZI TV HD [BD]
 http://103.132.180.245:8080/2/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Asian_TV_Logo.svg/150px-Asian_TV_Logo.svg.png" group-title="Three  IPTV",ASIAN TV HD [BD]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Asian_TV_Logo.svg/150px-Asian_TV_Logo.svg.png" group-title="Three IPTV",ASIAN TV HD [BD]
 https://tempe.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/asian-test-sample-ok-d.stream/chunks.m3u8?@amarnettv.live
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/15/SA_TV_Logo.png" group-title="Three  IPTV",SA TV HD [BD]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/15/SA_TV_Logo.png" group-title="Three IPTV",SA TV HD [BD]
 https://tempe.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/satvoff5666.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://www.deepto.tv/sites/default/files/deepto_tv_logo%20Edit.png" group-title="Three  IPTV",DEEPTO TV HD [BD]
+#EXTINF:-1 tvg-logo="https://www.deepto.tv/sites/default/files/deepto_tv_logo%20Edit.png" group-title="Three IPTV",DEEPTO TV HD [BD]
 http://103.205.133.50/hls/deeptotv.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/Three  IPTV_Tv_Logo.jpg/220px-Three  IPTV_Tv_Logo.jpg" group-title="Three  IPTV",Three  IPTV TV HD [BD]
-https://tempe.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/Three  IPTVtvhd.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/NT.jpg" group-title="Three  IPTV",NAGORIK TV HD [BD]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/Three IPTV_Tv_Logo.jpg/220px-Three IPTV_Tv_Logo.jpg" group-title="Three IPTV",Three IPTV TV HD [BD]
+https://tempe.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/Three IPTVtvhd.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/NT.jpg" group-title="Three IPTV",NAGORIK TV HD [BD]
 http://103.205.133.50/hls/nagorik.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/ATN_News_Logo_3.GIF/120px-ATN_News_Logo_3.GIF" group-title="Three  IPTV",ATN NEWS [BD]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/ATN_News_Logo_3.GIF/120px-ATN_News_Logo_3.GIF" group-title="Three IPTV",ATN NEWS [BD]
 https://tempe.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnws-sg.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Independent_Television_Logo.svg/220px-Independent_Television_Logo.svg.png" group-title="Three  IPTV",INDEPENDENT TV [BD]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Independent_Television_Logo.svg/220px-Independent_Television_Logo.svg.png" group-title="Three IPTV",INDEPENDENT TV [BD]
 https://tempe.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/independent-8-org.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Somoy_TV_logo.png" group-title="Three  IPTV",SOMOY TV [BD]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Somoy_TV_logo.png" group-title="Three IPTV",SOMOY TV [BD]
 https://tempe.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/somoyt000011226615544544.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Channel24logo.svg/120px-Channel24logo.svg.png" group-title="Three  IPTV",CHANNEL 24 [BD]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Channel24logo.svg/120px-Channel24logo.svg.png" group-title="Three IPTV",CHANNEL 24 [BD]
 https://tempe.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channel24-sg-e8e.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5d/Ekattor_TV_logo.png" group-title="Three  IPTV",EKATTOR TV HD [BD]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5d/Ekattor_TV_logo.png" group-title="Three IPTV",EKATTOR TV HD [BD]
 http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/11.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/JamunaTV_logo.jpg/250px-JamunaTV_logo.jpg" group-title="Three  IPTV",JAMUNA TV [BD]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/JamunaTV_logo.jpg/250px-JamunaTV_logo.jpg" group-title="Three IPTV",JAMUNA TV [BD]
 https://tempe.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/jamuna-test-sample-ok.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/00/News24logo%28BD%29.jpg/200px-News24logo%28BD%29.jpg" group-title="Three  IPTV",NEWS 24 HD [BD]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/00/News24logo%28BD%29.jpg/200px-News24logo%28BD%29.jpg" group-title="Three IPTV",NEWS 24 HD [BD]
 https://tempe.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/news24local.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/DBC_News_logo.png/180px-DBC_News_logo.png" group-title="Three  IPTV",DBC NEWS HD [BD]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/DBC_News_logo.png/180px-DBC_News_logo.png" group-title="Three IPTV",DBC NEWS HD [BD]
 https://tempe.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/dbcnews.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fd/Duronto_TV_logo.jpg/170px-Duronto_TV_logo.jpg" group-title="Three  IPTV",DURONTO TV [BD]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fd/Duronto_TV_logo.jpg/170px-Duronto_TV_logo.jpg" group-title="Three IPTV",DURONTO TV [BD]
 http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/12.m3u8
-#EXTINF:-1 tvg-logo="http://bijoy.tv/wp-content/uploads/2020/08/logo.png" group-title="Three  IPTV",BIJOY TV HD [BD]
+#EXTINF:-1 tvg-logo="http://bijoy.tv/wp-content/uploads/2020/08/logo.png" group-title="Three IPTV",BIJOY TV HD [BD]
 https://tempe.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/bijoy00.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2018/04/Anandatvupdate.jpg?x91288" group-title="Three  IPTV",ANANDA TV HD [BD]
+#EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2018/04/Anandatvupdate.jpg?x91288" group-title="Three IPTV",ANANDA TV HD [BD]
 https://tempe.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/anandatv.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2020/05/Channel-S-LOGO.jpg" group-title="Three  IPTV",CHANNEL S [BD]
+#EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2020/05/Channel-S-LOGO.jpg" group-title="Three IPTV",CHANNEL S [BD]
 https://bdsl.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channelsbd.stream/live-orgin/channelsbd.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OS4nrN7.jpg" group-title="Three  IPTV",NTV [UK]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OS4nrN7.jpg" group-title="Three IPTV",NTV [UK]
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/ntvuk00332211.stream/live-orgin/ntvuk00332211.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/d48uZCk.png" group-title="Three  IPTV",CHANNEL S [UK]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/d48uZCk.png" group-title="Three IPTV",CHANNEL S [UK]
 https://tempe.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/chsukoff.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2017/01/atnThree  IPTVuk11.jpg?x91288" group-title="Three  IPTV",ATN Three  IPTV [UK]
-https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnThree  IPTVuk-off.stream/live-orgin/atnThree  IPTVuk-off.stream/chunks.m3u8?@amarnettv.live
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Three  IPTV",Star Jalsha SD [IN]
+#EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2017/01/atnThree IPTVuk11.jpg?x91288" group-title="Three IPTV",ATN Three IPTV [UK]
+https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnThree IPTVuk-off.stream/live-orgin/atnThree IPTVuk-off.stream/chunks.m3u8?@amarnettv.live
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Three IPTV",Star Jalsha SD [IN]
 http://aklivetv.com:8080/starjalsha/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/SJHD.jpg" group-title="Three  IPTV",Star Jalsha HD [IN] (1)
+#EXTINF:-1 tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/SJHD.jpg" group-title="Three IPTV",Star Jalsha HD [IN] (1)
 http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/27.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/SJHD.jpg" group-title="Three  IPTV",Star Jalsha HD [IN] (2)
+#EXTINF:-1 tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/SJHD.jpg" group-title="Three IPTV",Star Jalsha HD [IN] (2)
 https://yuppcatchup.akamaized.net/preview/starjalsha/1800.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/35/Zee_Three  IPTV_New_Logo.jpg" group-title="Three  IPTV",Zee Three  IPTV SD [IN] (1)
-http://aklivetv.com:8080/zeeThree  IPTV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/35/Zee_Three  IPTV_New_Logo.jpg" group-title="Three  IPTV",Zee Three  IPTV SD [IN] (2)
-http://103.102.136.106:8080/cmcltv/tcm_zeeThree  IPTVcm.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/ZBHD.jpg" group-title="Three  IPTV",Zee Three  IPTV HD [IN] (1)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/35/Zee_Three IPTV_New_Logo.jpg" group-title="Three IPTV",Zee Three IPTV SD [IN] (1)
+http://aklivetv.com:8080/zeeThree IPTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/35/Zee_Three IPTV_New_Logo.jpg" group-title="Three IPTV",Zee Three IPTV SD [IN] (2)
+http://103.102.136.106:8080/cmcltv/tcm_zeeThree IPTVcm.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/ZBHD.jpg" group-title="Three IPTV",Zee Three IPTV HD [IN] (1)
 http://ctgiptv.kitv.live:1935/live/test/test1/26.ts
-#EXTINF:-1 tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/ZBHD.jpg" group-title="Three  IPTV",Zee Three  IPTV HD [IN] (2)
+#EXTINF:-1 tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/ZBHD.jpg" group-title="Three IPTV",Zee Three IPTV HD [IN] (2)
 http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/26.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/85/Colors_Three  IPTV_Logo.jpg" group-title="Three  IPTV",Colors Three  IPTV SD [IN] 
-http://103.102.136.106:8080/cmcltv/tcm_colorsThree  IPTVcm.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/CBHD.jpg" group-title="Three  IPTV",Colors Three  IPTV HD [IN]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/85/Colors_Three IPTV_Logo.jpg" group-title="Three IPTV",Colors Three IPTV SD [IN] 
+http://103.102.136.106:8080/cmcltv/tcm_colorsThree IPTVcm.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/CBHD.jpg" group-title="Three IPTV",Colors Three IPTV HD [IN]
 https://yuppcatchup.akamaized.net/preview/etvbengali/2500.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Sony_Aath_logo.svg/1200px-Sony_Aath_logo.svg.png" group-title="Three  IPTV",Sony Aath [IN] (1)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Sony_Aath_logo.svg/1200px-Sony_Aath_logo.svg.png" group-title="Three IPTV",Sony Aath [IN] (1)
 http://103.102.136.106:8080/cmcltv/tcm_sonyaat.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Sony_Aath_logo.svg/1200px-Sony_Aath_logo.svg.png" group-title="Three  IPTV",Sony Aath [IN] (2)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Sony_Aath_logo.svg/1200px-Sony_Aath_logo.svg.png" group-title="Three IPTV",Sony Aath [IN] (2)
 http://aklivetv.com:8080/sony8/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/EB.png" group-title="Three  IPTV",Enter 10 Three  IPTV [IN]
+#EXTINF:-1 tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/EB.png" group-title="Three IPTV",Enter 10 Three IPTV [IN]
 https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/channels/enter10.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6VL1Ke9.jpg" group-title="Three  IPTV",Akash Aath [IN]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6VL1Ke9.jpg" group-title="Three IPTV",Akash Aath [IN]
 https://load.airtelxstream.in/aakashaath/smil:common.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pQT1shs.jpg" group-title="Three  IPTV",DD Three  IPTV [IN]
-https://load.airtelxstream.in/ddThree  IPTV/smil:common.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jf3Sv29.jpg" group-title="Three  IPTV",Ruposhi Three  IPTV [IN]
-http://103.205.133.50/hls/ruposhiThree  IPTV.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hiXQiMa.jpg" group-title="Three  IPTV",Khusboo Three  IPTV [IN]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pQT1shs.jpg" group-title="Three IPTV",DD Three IPTV [IN]
+https://load.airtelxstream.in/ddThree IPTV/smil:common.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jf3Sv29.jpg" group-title="Three IPTV",Ruposhi Three IPTV [IN]
+http://103.205.133.50/hls/ruposhiThree IPTV.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hiXQiMa.jpg" group-title="Three IPTV",Khusboo Three IPTV [IN]
 https://streamitv.multitvsolution.in/idvo/khushboo.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WvrfVsv.jpg" group-title="Three  IPTV",Zee Three  IPTV Cinema [IN]
-https://y5w8j4a9.ssl.hwcdn.net/zThree  IPTVcnm/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/Jalsha_movies.png/220px-Jalsha_movies.png" group-title="Three  IPTV",Jalsha Movies HD [IN]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WvrfVsv.jpg" group-title="Three IPTV",Zee Three IPTV Cinema [IN]
+https://y5w8j4a9.ssl.hwcdn.net/zThree IPTVcnm/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/Jalsha_movies.png/220px-Jalsha_movies.png" group-title="Three IPTV",Jalsha Movies HD [IN]
 http://43.230.123.21:8080/live/star-jalsha-movies.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hAmFkQB.jpg" group-title="Three  IPTV",Jalsha Movies [IN] (1)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hAmFkQB.jpg" group-title="Three IPTV",Jalsha Movies [IN] (1)
 http://aklivetv.com:8080/jalshamovies/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hAmFkQB.jpg" group-title="Three  IPTV",Jalsha Movies HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hAmFkQB.jpg" group-title="Three IPTV",Jalsha Movies HD
 http://global.thunderbd.com/31/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/izK1zjI.jpg" group-title="Three  IPTV",Tollywood [IN]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/izK1zjI.jpg" group-title="Three IPTV",Tollywood [IN]
 http://m-c09-j2apps.s.llnwi.net/hls/8005.Tollywood.in.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2BPz1tU.jpg" group-title="Three  IPTV",Orange Three  IPTV [IN]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2BPz1tU.jpg" group-title="Three IPTV",Orange Three IPTV [IN]
 https://streamitv.multitvsolution.in/idvo/orangetv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AntJjP7.jpg" group-title="Three  IPTV",MY CINEMA IPTV [BD]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AntJjP7.jpg" group-title="Three IPTV",MY CINEMA IPTV [BD]
 https://tempe.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mycinema-up2.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0rPdpW9/MB-TV.jpg" group-title="Three  IPTV",Movie Three  IPTV TV [BD]
-https://tempe.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/movieThree  IPTVlink2.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aDGaGMw.jpg" group-title="Three  IPTV",R Plus Gold [IN]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0rPdpW9/MB-TV.jpg" group-title="Three IPTV",Movie Three IPTV TV [BD]
+https://tempe.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/movieThree IPTVlink2.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aDGaGMw.jpg" group-title="Three IPTV",R Plus Gold [IN]
 https://streamitv.multitvsolution.in/idvo/rplusgold.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/g5AQzAK.jpg" group-title="Three  IPTV",ABP Ananda [IN]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/g5AQzAK.jpg" group-title="Three IPTV",ABP Ananda [IN]
 https://abp-i.akamaihd.net/hls/live/765530/abpananda/masterhls_1564.m3u8
-#EXTINF:-1 tvg-logo="http://calcuttanews.tv/wp-content/uploads/2017/04/ctvnlogo-1.png" group-title="Three  IPTV",Calcutta News [IN]
+#EXTINF:-1 tvg-logo="http://calcuttanews.tv/wp-content/uploads/2017/04/ctvnlogo-1.png" group-title="Three IPTV",Calcutta News [IN]
 https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/channels/cnews.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uPgH7dT.png" group-title="Three  IPTV",Three  IPTV Time [IN]
-https://streamitv.multitvsolution.in/idvo/Three  IPTVtimetv.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1f/News_Time_new_logo.png" group-title="Three  IPTV",News Time Three  IPTV [IN]
-https://streamitv.multitvsolution.in/idvo/newstimeThree  IPTV.m3u8
-#EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2020/09/Youth-Three  IPTV-Tv.jpg" group-title="Three  IPTV",Youth Three  IPTV TV [BD]
-https://tempe.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/youthThree  IPTVtv.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2020/08/bb24tv.jpg" group-title="Three  IPTV",Biswa Three  IPTV 24 TV [BD]
-https://tempe.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/biswaThree  IPTVtv.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2020/06/alponatv.jpg" group-title="Three  IPTV",Alpona IPTV [BD]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uPgH7dT.png" group-title="Three IPTV",Three IPTV Time [IN]
+https://streamitv.multitvsolution.in/idvo/Three IPTVtimetv.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1f/News_Time_new_logo.png" group-title="Three IPTV",News Time Three IPTV [IN]
+https://streamitv.multitvsolution.in/idvo/newstimeThree IPTV.m3u8
+#EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2020/09/Youth-Three IPTV-Tv.jpg" group-title="Three IPTV",Youth Three IPTV TV [BD]
+https://tempe.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/youthThree IPTVtv.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2020/08/bb24tv.jpg" group-title="Three IPTV",Biswa Three IPTV 24 TV [BD]
+https://tempe.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/biswaThree IPTVtv.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2020/06/alponatv.jpg" group-title="Three IPTV",Alpona IPTV [BD]
 https://tempe.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/alponatv.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2016/02/Three  IPTV21tv.jpg?x91288" group-title="Three  IPTV",Three  IPTV 21 IPTV [BD]
-https://tempe.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/Three  IPTV21tv000889956-sg.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2020/05/Cumilla24.jpeg" group-title="Three  IPTV",Cumilla 24 IPTV [BD]
+#EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2016/02/Three IPTV21tv.jpg?x91288" group-title="Three IPTV",Three IPTV 21 IPTV [BD]
+https://tempe.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/Three IPTV21tv000889956-sg.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2020/05/Cumilla24.jpeg" group-title="Three IPTV",Cumilla 24 IPTV [BD]
 https://tempe.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/cumilla24.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lGoxDN6.jpg" group-title="Three  IPTV",Deshe Bideshe [BD]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lGoxDN6.jpg" group-title="Three IPTV",Deshe Bideshe [BD]
 https://tempe.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/deshebideshe.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LqQp9LH.jpg" group-title="Three  IPTV",Nan IPTV [BD]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LqQp9LH.jpg" group-title="Three IPTV",Nan IPTV [BD]
 https://bdsl.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/nantv.stream/live-orgin/nantv.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2018/09/joyjatra1.jpg" group-title="Three  IPTV",Joy Jatra TV
+#EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2018/09/joyjatra1.jpg" group-title="Three IPTV",Joy Jatra TV
 https://tempe.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/joyjatratv.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2ngv3Y0/71-Three  IPTV-TV.jpg" group-title="Three  IPTV",71 Three  IPTV TV
-https://bdsl.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/71Three  IPTV.stream/live-orgin/71Three  IPTV.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2016/02/mileninumTV.jpg?x91288" group-title="Three  IPTV",Millenium IPTV [BD]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2ngv3Y0/71-Three IPTV-TV.jpg" group-title="Three IPTV",71 Three IPTV TV
+https://bdsl.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/71Three IPTV.stream/live-orgin/71Three IPTV.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2016/02/mileninumTV.jpg?x91288" group-title="Three IPTV",Millenium IPTV [BD]
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/millenniumtv-odr-up2.stream/live-orgin/millenniumtv-odr-up2.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2019/05/binodonThree  IPTVtv.jpg" group-title="Three  IPTV",Binodon Three  IPTV IPTV [BD]
-https://tempe.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/bindonThree  IPTV.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wQVJWSk/Varendra-TV.jpg" group-title="Three  IPTV",Varendra TV [BD]
+#EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2019/05/binodonThree IPTVtv.jpg" group-title="Three IPTV",Binodon Three IPTV IPTV [BD]
+https://tempe.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/bindonThree IPTV.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wQVJWSk/Varendra-TV.jpg" group-title="Three IPTV",Varendra TV [BD]
 https://tempe.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/varendratv.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tBZhq2c/Roal-TV.jpg" group-title="Three  IPTV",Royal TV [BD]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tBZhq2c/Roal-TV.jpg" group-title="Three IPTV",Royal TV [BD]
 https://tempe.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/royaltv.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qVy4UdD.jpg" group-title="Three  IPTV",RANG IPTV [BD]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qVy4UdD.jpg" group-title="Three IPTV",RANG IPTV [BD]
 https://tempe.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/rangiptv.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2020/08/Voice-TV.jpg" group-title="Three  IPTV",VOICE IPTV [BD]
+#EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2020/08/Voice-TV.jpg" group-title="Three IPTV",VOICE IPTV [BD]
 https://tempe.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/voicetv.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aVwQSXn.jpg" group-title="Three  IPTV",JONMOBHUMI IPTV [BD]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aVwQSXn.jpg" group-title="Three IPTV",JONMOBHUMI IPTV [BD]
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/jonmobhumitv.stream/live-orgin/jonmobhumitv.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2017/10/iontvuk.jpg?x91288" group-title="Three  IPTV",ION TV UK [BD]
+#EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2017/10/iontvuk.jpg?x91288" group-title="Three IPTV",ION TV UK [BD]
 https://tempe.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/iontvuk.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2018/04/live2web-logo-Converted.jpg?x91288" group-title="Three  IPTV",LIVE2WEB IPTV [BD]
+#EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2018/04/live2web-logo-Converted.jpg?x91288" group-title="Three IPTV",LIVE2WEB IPTV [BD]
 https://tempe.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/live2web.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kdez6Hz.jpg" group-title="Three  IPTV",PAN VISION IPTV [BD]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kdez6Hz.jpg" group-title="Three IPTV",PAN VISION IPTV [BD]
 https://tempe.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/panvisiontvs.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CIgayHY.jpg" group-title="Three  IPTV",NOKSHI IPTV [BD]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CIgayHY.jpg" group-title="Three IPTV",NOKSHI IPTV [BD]
 https://tempe.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/nakshitv.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7YYHYiW.png" group-title="Three  IPTV",Jagoroni IPTV [BD]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7YYHYiW.png" group-title="Three IPTV",Jagoroni IPTV [BD]
 https://tempe.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/jagoronitv.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2020/04/TIMES-24-TV.jpg?x91288" group-title="Three  IPTV",Times 24 IPTV [BD]
+#EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2020/04/TIMES-24-TV.jpg?x91288" group-title="Three IPTV",Times 24 IPTV [BD]
 https://tempe.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/times24tv.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2020/07/thechanneltv-1.jpg" group-title="Three  IPTV",THE CHANNEL TV [BD]
+#EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2020/07/thechanneltv-1.jpg" group-title="Three IPTV",THE CHANNEL TV [BD]
 https://tempe.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/thechanneltv.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Brv8XBm/NRB-TV.png" group-title="Three  IPTV",NRB IPTV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Brv8XBm/NRB-TV.png" group-title="Three IPTV",NRB IPTV
 https://tempe.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/nrb-eu.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2020/08/pbntv.png" group-title="Three  IPTV",PBN IPTV [BD]
+#EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2020/08/pbntv.png" group-title="Three IPTV",PBN IPTV [BD]
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/pbntv.stream/live-orgin/pbntv.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://timetvusa.com/images/ttv200.png" group-title="Three  IPTV",Time TV USA [BD]
+#EXTINF:-1 tvg-logo="https://timetvusa.com/images/ttv200.png" group-title="Three IPTV",Time TV USA [BD]
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/timetvusa.stream/live-orgin/timetvusa.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2020/05/ABtv-Log-.jpg?x91288" group-title="Three  IPTV",AB TV USA [BD]
+#EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2020/05/ABtv-Log-.jpg?x91288" group-title="Three IPTV",AB TV USA [BD]
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/abtvusa.stream/live-orgin/abtvusa.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2016/02/tvoneuk.jpg?x91288" group-title="Three  IPTV",TV One UK [BD]
+#EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2016/02/tvoneuk.jpg?x91288" group-title="Three IPTV",TV One UK [BD]
 https://tempe.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/tvoneuksni.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2020/09/Channel-H.jpg" group-title="Three  IPTV",Channel H IPTV [BD]
+#EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2020/09/Channel-H.jpg" group-title="Three IPTV",Channel H IPTV [BD]
 https://bds.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channelhtv.stream/live-orgin/channelhtv.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2020/09/City-TV.jpg" group-title="Three  IPTV",City IPTV [BD]
+#EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2020/09/City-TV.jpg" group-title="Three IPTV",City IPTV [BD]
 https://bds.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/citytv.stream/live-orgin/citytv.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/ktv.jpg" group-title="Three  IPTV",Ktv Three  IPTV HD [BD]
-https://server1.jadubd.com/ktvThree  IPTV/ktvThree  IPTV/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CU8yXc7.png" group-title="Three  IPTV",Channel 23 IPTV [BD]
+#EXTINF:-1 tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/ktv.jpg" group-title="Three IPTV",Ktv Three IPTV HD [BD]
+https://server1.jadubd.com/ktvThree IPTV/ktvThree IPTV/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CU8yXc7.png" group-title="Three IPTV",Channel 23 IPTV [BD]
 http://103.108.140.164:1009/channel23/livestream/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2016/02/natunsomoysnew.jpg?x91288" group-title="Three  IPTV",Natun Somoy IPTV [BD]
+#EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2016/02/natunsomoysnew.jpg?x91288" group-title="Three IPTV",Natun Somoy IPTV [BD]
 http://server1.jadubd.com/natunTV/natunTV/chunklist_w1287147693.m3u8
-#EXTINF: -1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2019/08/hernettv.jpg?x91288" group-title="Three  IPTV",Hernet IPTV [BD]
+#EXTINF: -1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2019/08/hernettv.jpg?x91288" group-title="Three IPTV",Hernet IPTV [BD]
 https://server1.jadubd.com/hernettv/hernettv/chunklist_w604863394.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YJxFSMQ.jpg" group-title="Three  IPTV",Magic Three  IPTV IPTV [BD]
-http://enaniptv.com/magicThree  IPTVtv/1080/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7HplreU.jpg" group-title="Three  IPTV",NANDAN IPTV [BD]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YJxFSMQ.jpg" group-title="Three IPTV",Magic Three IPTV IPTV [BD]
+http://enaniptv.com/magicThree IPTVtv/1080/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7HplreU.jpg" group-title="Three IPTV",NANDAN IPTV [BD]
 http://nandansyst.com/hls/nandan.m3u8?@amarnettv.live
-#EXTINF:-1 tvg-logo="https://i.imgur.com/V35jOaW.png" group-title="Three  IPTV",Alif IPTV [BD]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/V35jOaW.png" group-title="Three IPTV",Alif IPTV [BD]
 http://128.199.212.160/alif/1080/index.m3u8?@amarnettv.live
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bYFH9ra.jpg" group-title="Three  IPTV",Three  IPTV IPTV [BD]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bYFH9ra.jpg" group-title="Three IPTV",Three IPTV IPTV [BD]
 http://str24.l9574.com/515.stream/tracks-v1a1/index.m3u8?@amarnettv.live
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CCZdRgb.png" group-title="Three  IPTV",TBN 24 USA IPTV [BD]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CCZdRgb.png" group-title="Three IPTV",TBN 24 USA IPTV [BD]
 http://fingerme.dg21bd.com/TBN24/index.m3u8?@amarnettv.live
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dyoXd9c.png" group-title="Three  IPTV",Channel T1 IPTV [BD]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dyoXd9c.png" group-title="Three IPTV",Channel T1 IPTV [BD]
 http://128.199.212.160/channelt1/1080/index.m3u8?@amarnettv.live
-#EXTINF:-1 tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/AR.png" group-title="Three  IPTV",Artv Network [BD]
+#EXTINF:-1 tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/AR.png" group-title="Three IPTV",Artv Network [BD]
 https://m6gdakveln93-hls-live.5centscdn.com/ARTVN/d0dbe915091d400bd8ee7f27f0791303.sdp/ARTVN/d0dbe915091d400bd8ee7f27f0791303.sdp1/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/ayna.jpg" group-title="Three  IPTV",Ayna IPTV [BD]
+#EXTINF:-1 tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/ayna.jpg" group-title="Three IPTV",Ayna IPTV [BD]
 http://str24.l9574.com/510.stream/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://colorsiptv.com/uploads/tv_image/sm/nrb-connect-tv.PNG" group-title="Three  IPTV",NRB Connect HD [BD]
+#EXTINF:-1 tvg-logo="https://colorsiptv.com/uploads/tv_image/sm/nrb-connect-tv.PNG" group-title="Three IPTV",NRB Connect HD [BD]
 http://vod.beeiptv.com:8081/NRB/nrbconnect/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/e9/0b/97/e90b974fa7fc1481b8a530a8783ff7e5.png" group-title="Three  IPTV",Probasi Three  IPTV [BD]
-http://163.172.29.246:8081/globalbd/probashi_Three  IPTV/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/e9/0b/97/e90b974fa7fc1481b8a530a8783ff7e5.png" group-title="Three IPTV",Probasi Three IPTV [BD]
+http://163.172.29.246:8081/globalbd/probashi_Three IPTV/chunks.m3u8
 #EXTINF:-1 ,GTV HD 💋
 http://digiptv.ddns.net:25461/live/nazim44/7631/122.m3u8?token=GhBaAkILQwgRVghUUgcHBQMAXwVSBwADAVBSBgUABVJUAwQCUgFVU1BHFRNFQkdSUQ9mD1ASAgcKVBoXEUUDFD5bVkELQVUBAFEbHRRCXFpVQANWGBJIX1xEDBdWA1dUWRAeQVQbFVdBC1hdaVJQQVkBXEQOXk1aVEoUWgppAgMMU1wHE1lDAhFJG1hFRhcNXhdVChgSWl9MFFdBARRcRFMBAVMTT0NRXBBXRURPFw0SIH1EGBJdTkwDWEYNWQhEWxBfUERbQx4RDEpuRFNGQ0IHWAtRQhoMGlYUGUZbBx4+UV0NXwYCRloKV0IUDBcGEk4bC1teUUJXFGlFDVJEXEMGAFADQRw=
 #EXTINF:-1 , Jalsha Movies HD 💋
 http://digilptv.ddns.net:25461/live/nazim44/7631/203.m3u8?token=GhBaAkILQwgRUlhTVwcMUQFUAVYAB10FAFBQB1wAAFEAAwRWCAADAwpHFRNFQkdSUQ9mD1ASAgQIVRoXEUUDFD5bVkELQVUBAFEbHRRCXFpVQANWGBJIX1xEDBdWAFZWQx4QBkkXBEBdBFVuUlNDXlMHG1xaRVRaFERZWztSAwsAXFZBC0FREB9HUEJGFA9ZRQ5VShZSUUJKB0JQRgxEVFIKBkEdQQJdRgtNQ08UDxVyJhtKFlVAQl0IRVwLWERcQ18BFglBTRBaFmZDU0VBRVUDVANGEgIUCEQaFwlXHjkCXVwNVAAVW1wLShMMFAQVHEBUCVpZTFlKOUZcABRcRFMGBFcAQRw=
-#EXTINF:-1 ,Star Three  IPTV 1 HD 💋
+#EXTINF:-1 ,Star Three IPTV 1 HD 💋
 http://digiptv.ddns.net:25461/live/nazim44/7631/661.m3u8?token=GhBaAkILQwgRVggEV1UAAggDCwINCQ5TAF9TBQVVVFEHB1dbBFFVVgBHFRNFQkdSUQ9mD1ASAgAOVxoXEUUDFD5bVkELQVUBAFEbHRRCXFpVQANWGBJIX1xEDBdTB15TQx4QBkkXBEBdBFVuUlNDXlMHG1xaRVRaFERZWztSAwsAXFZBC0FREB9HUEJGFA9ZRQ5VShZSUUJKB0JQRgxEV1EABkEdQQJdRgtNQ08UDxVyJhtKFlVAQl0IRVwLWERcQ18BFglBTRBaFmZDU0VBRVUDVANGEgIUCEQaFwlXHjkCXVwNVAAVW1wLShMMFAQVHEBUCVpZTFlKOUZcABRcRFgGBlUTHg==
 #EXTINF:-1 ,Channel I HD 💋
 http://digilptv.ddns.net:25461/live/nazim44/7631/643.m3u8?token=GhBaAkILQwgRV11SDg4HAVNbAFABVglSDAABDF0GAFMCUFBXB1QEUwRHFRNFQkdSUQ9mD1ASAgAMVRoXEUUDFD5bVkELQVUBAFEbHRRCXFpVQANWGBJIX1xEDBdWBV9QWRAeQVQbFVdBC1hdaVJQQVkBXEQOXk1aVEoUWgppAgMMU1wHE1lDAhFJG1hFRhcNXhdVChgSWl9MFFdBARRcRFgHC0EdQQJdRgtNQ08UDxVyJhtKFlVAQl0IRVwLWERcQ18BFglBTRBaFmZDU0VBRVUDVANGEgIUCEQaFwlXHjkCXVwNVAAVW1wLShMMFAQVHEBUCVpZTFlKOUZcABRcRFAAAVcDQRw=
 #EXTINF:-1 ,Deepto TV HD 💋
 http://digiptv.ddns.net:25461/live/nazim44/7631/205.m3u8?token=GhBaAkILQwgRVABSBlJUVAcHXQNWBFpTCVZUAgcAVgNZAAJRCVZZBlVHFRNFQkdSUQ9mD1ASAgQIUxoXEUUDFD5bVkELQVUBAFEbHRRCXFpVQANWGBJIX1xEDBddBVBeQx4QBkkXBEBdBFVuUlNDXlMHG1xaRVRaFERZWztSAwsAXFZBC0FREB9HUEJGFA9ZRQ5VShZSUUJKB0JQRgxEVFIGBUEdQQJdRgtNQ08UDxVyJhtKFlVAQl0IRVwLWERcQ18BFglBTRBaFmZDU0VBRVUDVANGEgIUCEQaFwlXHjkCXVwNVAAVW1wLShMMFAQVHEBUCVpZTFlKOUZcABRcRFABC1ITHg==
-#EXTINF:-1 ,Colors Three  IPTV SD 💋
+#EXTINF:-1 ,Colors Three IPTV SD 💋
 http://digi-iptv.ddns.net:25461/live/nazim44/7631/106.m3u8?token=GhBaAkILQwgRAF0GDgZTAAJSCQUHCVwGDwMDBFwBBQRQUVEFUFFZAAVHFRNFQkdSUQ9mD1ASAgcIUBoXEUUDFD5bVkELQVUBAFEbHRRCXFpVQANWGBJIX1xEDBdRAV5TQx4QBkkXBEBdBFVuUlNDXlMHG1xaRVRaFERZWztSAwsAXFZBC0FREB9HUEJGFA9ZRQ5VShZSUUJKB0JQRgxEV1AHC0EdQQJdRgtNQ08UDxVyJhtKFlVAQl0IRVwLWERcQ18BFglBTRBaFmZDU0VBRVUDVANGEgIUCEQaFwlXHjkCXVwNVAAVW1wLShMMFAQVHEBUCVpZTFlKOUZcABRcRFAEAFoEQRw=
